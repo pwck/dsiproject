@@ -1,0 +1,81 @@
+name,description,datatype,vartype,min,max,values,convert
+pid,Parcel identification number,numeric,Nominal,,,,
+mssubclass,The building class ,categorical,Nominal,,,20|30|40|45|50|60|70|75|80|85|90|120|150|160|180|190,
+mszoning,Identifies the general zoning classification of the sale,categorical,Nominal,,,A|C|FV|I|RH|RL|RP|RM,
+lotfrontage,Linear feet of street connected to property,numeric,Continuous,0,,,
+lotarea,Lot size in square feet,numeric,Continuous,0,,,
+street,Type of road access to property,categorical,Nominal,,,Grvl|Pave,
+alley,Type of alley access to property,categorical,Nominal,,,Grvl|Pave|NA,
+lotshape,General shape of property,categorical,Ordinal,,,Reg|IR1|IR2|IR3,"{'Reg': 4, 'IR1': 3, 'IR2': 2, 'IR3': 1}"
+landcontour,Flatness of the property,categorical,Nominal,,,Lvl|Bnk|HLS|Low,
+utilities,Type of utilities available,categorical,Ordinal,,,AllPub|NoSewr|NoSeWa|ELO,"{'AllPub': 4, 'NoSewr': 3, 'NoSeWa': 2, 'ELO': 1}"
+lotconfig,Lot configuration,categorical,Nominal,,,Inside|Corner|CulDSac|FR2|FR3,
+landslope,Slope of property,categorical,Ordinal,,,Gtl|Mod|Sev,"{'Gtl': 3, 'Mod': 2, 'Sev': 1 }"
+neighborhood,Physical locations within Ames city limits,categorical,Nominal,,,Blmngtn|Blueste|BrDale|BrkSide|ClearCr|CollgCr|Crawfor|Edwards|Gilbert|Greens|GrnHill|IDOTRR|Landmrk|MeadowV|Mitchel|Names|NoRidge|NPkVill|NridgHt|NWAmes|OldTown|SWISU|Sawyer|SawyerW|Somerst|StoneBr|Timber|Veenker,
+condition1,Proximity to main road or railroad,categorical,Nominal,,,Artery|Feedr|Norm|RRNn|RRAn|PosN|PosA|RRNe|RRAe,
+condition2,Proximity to main road or railroad (if a second is present),categorical,Nominal,,,Artery|Feedr|Norm|RRNn|RRAn|PosN|PosA|RRNe|RRAe,
+bldgtype,Type of dwelling,categorical,Nominal,,,1Fam|2FmCon|Duplx|TwnhsE|TwnhsI,
+housestyle,Style of dwelling,categorical,Nominal,,,1Story|1.5Fin|1.5Unf|2Story|2.5Fin|2.5Unf|SFoyer|SLvl,
+overallqual,"Overall material and finish quality (10:Very Excellent, 1:Very Poor)",categorical,Ordinal,,,10|9|8|7|6|5|4|3|2|1,
+overallcond,"Overall condition rating (10:Very Excellent, 1:Very Poor)",categorical,Ordinal,,,10|9|8|7|6|5|4|3|2|1,
+yearbuilt,Original construction date,numeric,Discrete,1500,2020,,
+yearremod/add,Remodel date (same as construction date if no remodeling or additions),numeric,Discrete,1500,2020,,
+roofstyle,Type of roof,categorical,Nominal,,,Flat|Gable|Gambrel|Hip|Mansard|Shed,
+roofmatl,Roof material,categorical,Nominal,,,ClyTile|CompShg|Membran|Metal|Roll|Tar&Grv|WdShake|WdShngl,
+exterior1st,Exterior covering on house,categorical,Nominal,,,AsbShng|AsphShn|BrkComm|BrkFace|CBlock|CemntBd|HdBoard|ImStucc|MetalSd|Other|Plywood|PreCast|Stone|Stucco|VinylSd|Wd Sdng|WdShing,
+exterior2nd,Exterior covering on house (if more than one material),categorical,Nominal,,,AsbShng|AsphShn|BrkComm|BrkFace|CBlock|CemntBd|HdBoard|ImStucc|MetalSd|Other|Plywood|PreCast|Stone|Stucco|VinylSd|Wd Sdng|WdShing,
+masvnrtype,Masonry veneer type,categorical,Nominal,,,BrkCmn|BrkFace|CBlock|None|Stone,
+masvnrarea,Masonry veneer area in square feet,numeric,Continuous,0,,,
+exterqual,Exterior material quality,categorical,Ordinal,,,Ex|Gd|TA|Fa|Po,"{'Ex': 5, 'Gd': 4, 'TA': 3, 'Fa': 2, 'Po': 1}"
+extercond,Present condition of the material on the exterior,categorical,Ordinal,,,Ex|Gd|TA|Fa|Po,"{'Ex': 5, 'Gd': 4, 'TA': 3, 'Fa': 2, 'Po': 1}"
+foundation,Type of foundation,categorical,Nominal,,,BrkTil|CBlock|PConc|Slab|Stone|Wood,
+bsmtqual,"Height of the basement (Ex:100+ inches, Po:<70 inches)",categorical,Ordinal,,,Ex|Gd|TA|Fa|Po|NA,"{'Ex': 5, 'Gd': 4, 'TA': 3, 'Fa': 2, 'Po': 1, 'NA': 0}"
+bsmtcond,General condition of the basement,categorical,Ordinal,,,Ex|Gd|TA|Fa|Po|NA,"{'Ex': 5, 'Gd': 4, 'TA': 3, 'Fa': 2, 'Po': 1, 'NA': 0}"
+bsmtexposure,Walkout or garden level basement walls,categorical,Ordinal,,,Gd|Av|Mn|No|NA,"{'Gd': 4, 'Av': 3, 'Mn': 2, 'No': 1, 'NA': 0}"
+bsmtfintype1,Quality of basement finished area,categorical,Ordinal,,,GLQ|ALQ|BLQ|Rec|LwQ|Unf|NA,"{'GLQ': 6, 'ALQ': 5, 'BLQ': 4, 'Rec': 3, 'LwQ': 2, 'Unf': 1, 'NA': 0}"
+bsmtfinsf1,Type 1 finished square feet,numeric,Continuous,0,,,
+bsmtfintype2,Quality of second finished area (if present),categorical,Ordinal,,,GLQ|ALQ|BLQ|Rec|LwQ|Unf|NA,"{'GLQ': 6, 'ALQ': 5, 'BLQ': 4, 'Rec': 3, 'LwQ': 2, 'Unf': 1, 'NA': 0}"
+bsmtfinsf2,Type 2 finished square feet,numeric,Continuous,0,,,
+bsmtunfsf,Unfinished square feet of basement area,numeric,Continuous,0,,,
+totalbsmtsf,Total square feet of basement area,numeric,Continuous,0,,,
+heating,Type of heating,categorical,Nominal,,,Floor|GasA|GasW|Grav|OthW|Wall,
+heatingqc,Heating quality and condition,categorical,Ordinal,,,Ex|Gd|TA|Fa|Po,"{'Ex': 5, 'Gd': 4, 'TA': 3, 'Fa': 2, 'Po': 1}"
+centralair,Central air conditioning,categorical,Nominal,,,N|Y,
+electrical,Electrical system,categorical,Ordinal,,,SBrkr|FuseA|FuseF|FuseP|Mix,"{'SBrkr': 5, 'FuseA': 4, 'FuseF': 3, 'FuseP': 2, 'Mix': 1}"
+1stflrsf,First Floor square feet,numeric,Continuous,0,,,
+2ndflrsf,Second floor square feet,numeric,Continuous,0,,,
+lowqualfinsf,Low quality finished square feet (all floors),numeric,Continuous,0,,,
+grlivarea,Above grade (ground) living area square feet,numeric,Continuous,0,,,
+bsmtfullbath,Basement full bathrooms,numeric,Discrete,0,,,
+bsmthalfbath,Basement half bathrooms,numeric,Discrete,0,,,
+fullbath,Full bathrooms above grade,numeric,Discrete,0,,,
+halfbath,Half baths above grade,numeric,Discrete,0,,,
+bedroomabvgr,Number of bedrooms above basement level,numeric,Discrete,0,,,
+kitchenabvgr,Number of kitchens,numeric,Discrete,0,,,
+kitchenqual,Kitchen quality,categorical,Ordinal,,,Ex|Gd|TA|Fa|Po,"{'Ex': 5, 'Gd': 4, 'TA': 3, 'Fa': 2, 'Po': 1}"
+totrmsabvgrd,Total rooms above grade (does not include bathrooms),numeric,Discrete,0,,,
+functional,Home functionality rating,categorical,Ordinal,,,Typ|Min1|Min2|Mod|Maj1|Maj2|Sev|Sal,"{'Typ': 8, 'Min1': 7, 'Min2': 6, 'Mod': 5, 'Maj1': 4, 'Maj2': 3, 'Sev': 2, 'Sal': 1}"
+fireplaces,Number of fireplaces,numeric,Discrete,0,,,
+fireplacequ,Fireplace quality,categorical,Ordinal,,,Ex|Gd|TA|Fa|Po|NA,"{'Ex': 5, 'Gd': 4, 'TA': 3, 'Fa': 2, 'Po': 1, 'NA': 0}"
+garagetype,Garage location,categorical,Nominal,,,2Types|Attchd|Basment|BuiltIn|CarPort|Detchd|NA,
+garageyrblt,Year garage was built,numeric,Discrete,1500,2020,,
+garagefinish,Interior finish of the garage,categorical,Ordinal,,,Fin|RFn|Unf|NA,"{'Fin': 3, 'RFn': 2, 'Unf': 1, 'NA': 0}"
+garagecars,Size of garage in car capacity,numeric,Discrete,0,,,
+garagearea,Size of garage in square feet,numeric,Continuous,0,,,
+garagequal,Garage quality,categorical,Ordinal,,,Ex|Gd|TA|Fa|Po|NA,"{'Ex': 5, 'Gd': 4, 'TA': 3, 'Fa': 2, 'Po': 1, 'NA': 0}"
+garagecond,Garage condition,categorical,Ordinal,,,Ex|Gd|TA|Fa|Po|NA,"{'Ex': 5, 'Gd': 4, 'TA': 3, 'Fa': 2, 'Po': 1, 'NA': 0}"
+paveddrive,Paved driveway,categorical,Ordinal,,,Y|P|N,"{'Y': 3, 'P': 2, 'N': 1}"
+wooddecksf,Wood deck area in square feet,numeric,Continuous,0,,,
+openporchsf,Open porch area in square feet,numeric,Continuous,0,,,
+enclosedporch,Enclosed porch area in square feet,numeric,Continuous,0,,,
+3ssnporch,Three season porch area in square feet,numeric,Continuous,0,,,
+screenporch,Screen porch area in square feet,numeric,Continuous,0,,,
+poolarea,Pool area in square feet,numeric,Continuous,0,,,
+poolqc,Pool quality,categorical,Ordinal,,,Ex|Gd|TA|Fa|NA,"{'Ex': 5, 'Gd': 4, 'TA': 3, 'Fa': 2, 'NA': 0}"
+fence,Fence quality,categorical,Ordinal,,,GdPrv|MnPrv|GdWo|MnWw|NA,"{'GdPrv': 4, 'MnPrv': 3, 'GdWo': 2, 'MnWw': 1, 'NA': 0}"
+miscfeature,Miscellaneous feature not covered in other categories,categorical,Nominal,,,Elev|Gar2|Othr|Shed|TenC|NA,
+miscval,$Value of miscellaneous feature,numeric,Continuous,0,,,
+mosold,Month Sold,numeric,Discrete,1,12,,
+yrsold,Year Sold,numeric,Discrete,1500,2020,,
+saletype,Type of sale,categorical,Nominal,,,WD|CWD|VWD|New|COD|Con|ConLw|ConLI|ConLD|Oth,
+saleprice,Sale price $$,numeric,Continuous,,,,
