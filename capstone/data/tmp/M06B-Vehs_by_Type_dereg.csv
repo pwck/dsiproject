@@ -1,0 +1,371 @@
+period,category,type,number
+2016-Q1,Cars and Station-wagons,Private,19038
+2016-Q1,Cars and Station-wagons,Company,1860
+2016-Q1,Cars and Station-wagons,Tuition,21
+2016-Q1,Cars and Station-wagons,Private Hire (Rental),1696
+2016-Q1,Cars and Station-wagons,Off peak/Weekend cars,1437
+2016-Q1,Taxis,Taxis,784
+2016-Q1,Motorcycles and Scooters,Motorcycles and Scooters,2520
+2016-Q1,Goods and Other Vehicles,Goods-cum-passengers,43
+2016-Q1,Goods and Other Vehicles,LGVs ( mlw <= 3.5 mt),2312
+2016-Q1,Goods and Other Vehicles,HGVs ( mlw >3.5 - 16 mt),1579
+2016-Q1,Goods and Other Vehicles,VHGVs ( mlw > 16 mt),414
+2016-Q1,Buses,Public Buses,102
+2016-Q1,Buses,School Buses,45
+2016-Q1,Buses,Private Buses,55
+2016-Q1,Buses,Private Hire Buses,83
+2016-Q1,Buses,Excursion Buses,53
+2016-Q1,Tax Exempted Vehicles,Cars and Station-wagons,42
+2016-Q1,Tax Exempted Vehicles,Motorcycles and Scooters,1
+2016-Q1,Tax Exempted Vehicles,Buses,5
+2016-Q1,Tax Exempted Vehicles,Goods and Other Vehicles,87
+2016-Q2,Cars and Station-wagons,Private,36284
+2016-Q2,Cars and Station-wagons,Company,3815
+2016-Q2,Cars and Station-wagons,Tuition,31
+2016-Q2,Cars and Station-wagons,Private Hire (Rental),3215
+2016-Q2,Cars and Station-wagons,Off peak/Weekend cars,2514
+2016-Q2,Taxis,Taxis,2100
+2016-Q2,Motorcycles and Scooters,Motorcycles and Scooters,4778
+2016-Q2,Goods and Other Vehicles,Goods-cum-passengers,76
+2016-Q2,Goods and Other Vehicles,LGVs ( mlw <= 3.5 mt),4419
+2016-Q2,Goods and Other Vehicles,HGVs ( mlw >3.5 - 16 mt),3346
+2016-Q2,Goods and Other Vehicles,VHGVs ( mlw > 16 mt),864
+2016-Q2,Buses,Public Buses,178
+2016-Q2,Buses,School Buses,82
+2016-Q2,Buses,Private Buses,118
+2016-Q2,Buses,Private Hire Buses,171
+2016-Q2,Buses,Excursion Buses,123
+2016-Q2,Tax Exempted Vehicles,Cars and Station-wagons,97
+2016-Q2,Tax Exempted Vehicles,Motorcycles and Scooters,21
+2016-Q2,Tax Exempted Vehicles,Buses,12
+2016-Q2,Tax Exempted Vehicles,Goods and Other Vehicles,172
+2016-Q3,Cars and Station-wagons,Private,51495
+2016-Q3,Cars and Station-wagons,Company,5864
+2016-Q3,Cars and Station-wagons,Tuition,57
+2016-Q3,Cars and Station-wagons,Private Hire (Rental),4887
+2016-Q3,Cars and Station-wagons,Off peak/Weekend cars,3682
+2016-Q3,Taxis,Taxis,3512
+2016-Q3,Motorcycles and Scooters,Motorcycles and Scooters,6963
+2016-Q3,Goods and Other Vehicles,Goods-cum-passengers,131
+2016-Q3,Goods and Other Vehicles,LGVs ( mlw <= 3.5 mt),6541
+2016-Q3,Goods and Other Vehicles,HGVs ( mlw >3.5 - 16 mt),4804
+2016-Q3,Goods and Other Vehicles,VHGVs ( mlw > 16 mt),1341
+2016-Q3,Buses,Public Buses,218
+2016-Q3,Buses,School Buses,112
+2016-Q3,Buses,Private Buses,174
+2016-Q3,Buses,Private Hire Buses,229
+2016-Q3,Buses,Excursion Buses,171
+2016-Q3,Tax Exempted Vehicles,Cars and Station-wagons,139
+2016-Q3,Tax Exempted Vehicles,Motorcycles and Scooters,45
+2016-Q3,Tax Exempted Vehicles,Buses,17
+2016-Q3,Tax Exempted Vehicles,Goods and Other Vehicles,230
+2016-Q4,Cars and Station-wagons,Private,67715
+2016-Q4,Cars and Station-wagons,Company,8532
+2016-Q4,Cars and Station-wagons,Tuition,67
+2016-Q4,Cars and Station-wagons,Private Hire (Rental),6980
+2016-Q4,Cars and Station-wagons,Off peak/Weekend cars,4986
+2016-Q4,Taxis,Taxis,4519
+2016-Q4,Motorcycles and Scooters,Motorcycles and Scooters,9151
+2016-Q4,Goods and Other Vehicles,Goods-cum-passengers,159
+2016-Q4,Goods and Other Vehicles,LGVs ( mlw <= 3.5 mt),8398
+2016-Q4,Goods and Other Vehicles,HGVs ( mlw >3.5 - 16 mt),5755
+2016-Q4,Goods and Other Vehicles,VHGVs ( mlw > 16 mt),1612
+2016-Q4,Buses,Public Buses,251
+2016-Q4,Buses,School Buses,160
+2016-Q4,Buses,Private Buses,222
+2016-Q4,Buses,Private Hire Buses,313
+2016-Q4,Buses,Excursion Buses,216
+2016-Q4,Tax Exempted Vehicles,Cars and Station-wagons,180
+2016-Q4,Tax Exempted Vehicles,Motorcycles and Scooters,52
+2016-Q4,Tax Exempted Vehicles,Buses,21
+2016-Q4,Tax Exempted Vehicles,Goods and Other Vehicles,318
+2017-Q1,Cars and Station-wagons,Private,14790
+2017-Q1,Cars and Station-wagons,Company,3064
+2017-Q1,Cars and Station-wagons,Tuition,12
+2017-Q1,Cars and Station-wagons,Private Hire (Rental),1998
+2017-Q1,Cars and Station-wagons,Off peak/Weekend cars,1112
+2017-Q1,Taxis,Taxis,1254
+2017-Q1,Motorcycles and Scooters,Motorcycles and Scooters,2566
+2017-Q1,Goods and Other Vehicles,Goods-cum-passengers,130
+2017-Q1,Goods and Other Vehicles,LGVs ( mlw <= 3.5 mt),7347
+2017-Q1,Goods and Other Vehicles,HGVs ( mlw >3.5 - 16 mt),1381
+2017-Q1,Goods and Other Vehicles,VHGVs ( mlw > 16 mt),573
+2017-Q1,Buses,Public Buses,47
+2017-Q1,Buses,School Buses,30
+2017-Q1,Buses,Private Buses,138
+2017-Q1,Buses,Private Hire Buses,238
+2017-Q1,Buses,Excursion Buses,89
+2017-Q1,Tax Exempted Vehicles,Cars and Station-wagons,47
+2017-Q1,Tax Exempted Vehicles,Motorcycles and Scooters,16
+2017-Q1,Tax Exempted Vehicles,Buses,20
+2017-Q1,Tax Exempted Vehicles,Goods and Other Vehicles,188
+2017-Q2,Cars and Station-wagons,Private,28943
+2017-Q2,Cars and Station-wagons,Company,6285
+2017-Q2,Cars and Station-wagons,Tuition,28
+2017-Q2,Cars and Station-wagons,Private Hire (Rental),3882
+2017-Q2,Cars and Station-wagons,Off peak/Weekend cars,2039
+2017-Q2,Taxis,Taxis,2668
+2017-Q2,Motorcycles and Scooters,Motorcycles and Scooters,5330
+2017-Q2,Goods and Other Vehicles,Goods-cum-passengers,180
+2017-Q2,Goods and Other Vehicles,LGVs ( mlw <= 3.5 mt),10096
+2017-Q2,Goods and Other Vehicles,HGVs ( mlw >3.5 - 16 mt),2043
+2017-Q2,Goods and Other Vehicles,VHGVs ( mlw > 16 mt),833
+2017-Q2,Buses,Public Buses,90
+2017-Q2,Buses,School Buses,64
+2017-Q2,Buses,Private Buses,214
+2017-Q2,Buses,Private Hire Buses,267
+2017-Q2,Buses,Excursion Buses,126
+2017-Q2,Tax Exempted Vehicles,Cars and Station-wagons,77
+2017-Q2,Tax Exempted Vehicles,Motorcycles and Scooters,19
+2017-Q2,Tax Exempted Vehicles,Buses,28
+2017-Q2,Tax Exempted Vehicles,Goods and Other Vehicles,360
+2017-Q3,Cars and Station-wagons,Private,42010
+2017-Q3,Cars and Station-wagons,Company,10020
+2017-Q3,Cars and Station-wagons,Tuition,30
+2017-Q3,Cars and Station-wagons,Private Hire (Rental),5990
+2017-Q3,Cars and Station-wagons,Off peak/Weekend cars,3045
+2017-Q3,Taxis,Taxis,4719
+2017-Q3,Motorcycles and Scooters,Motorcycles and Scooters,8131
+2017-Q3,Goods and Other Vehicles,Goods-cum-passengers,216
+2017-Q3,Goods and Other Vehicles,LGVs ( mlw <= 3.5 mt),12874
+2017-Q3,Goods and Other Vehicles,HGVs ( mlw >3.5 - 16 mt),2702
+2017-Q3,Goods and Other Vehicles,VHGVs ( mlw > 16 mt),1064
+2017-Q3,Buses,Public Buses,139
+2017-Q3,Buses,School Buses,87
+2017-Q3,Buses,Private Buses,264
+2017-Q3,Buses,Private Hire Buses,296
+2017-Q3,Buses,Excursion Buses,164
+2017-Q3,Tax Exempted Vehicles,Cars and Station-wagons,140
+2017-Q3,Tax Exempted Vehicles,Motorcycles and Scooters,29
+2017-Q3,Tax Exempted Vehicles,Buses,36
+2017-Q3,Tax Exempted Vehicles,Goods and Other Vehicles,528
+2017-Q4,Cars and Station-wagons,Private,55287
+2017-Q4,Cars and Station-wagons,Company,12517
+2017-Q4,Cars and Station-wagons,Tuition,35
+2017-Q4,Cars and Station-wagons,Private Hire (Rental),9041
+2017-Q4,Cars and Station-wagons,Off peak/Weekend cars,3833
+2017-Q4,Taxis,Taxis,7164
+2017-Q4,Motorcycles and Scooters,Motorcycles and Scooters,10765
+2017-Q4,Goods and Other Vehicles,Goods-cum-passengers,256
+2017-Q4,Goods and Other Vehicles,LGVs ( mlw <= 3.5 mt),15082
+2017-Q4,Goods and Other Vehicles,HGVs ( mlw >3.5 - 16 mt),3164
+2017-Q4,Goods and Other Vehicles,VHGVs ( mlw > 16 mt),1219
+2017-Q4,Buses,Public Buses,175
+2017-Q4,Buses,School Buses,147
+2017-Q4,Buses,Private Buses,334
+2017-Q4,Buses,Private Hire Buses,321
+2017-Q4,Buses,Excursion Buses,197
+2017-Q4,Tax Exempted Vehicles,Cars and Station-wagons,165
+2017-Q4,Tax Exempted Vehicles,Motorcycles and Scooters,33
+2017-Q4,Tax Exempted Vehicles,Buses,40
+2017-Q4,Tax Exempted Vehicles,Goods and Other Vehicles,601
+2018-Q1,Cars and Station-wagons,Private cars,11988
+2018-Q1,Cars and Station-wagons,Company cars,2257
+2018-Q1,Cars and Station-wagons,Tuition cars,7
+2018-Q1,Cars and Station-wagons,Private Hire (Self-Drive) cars,654
+2018-Q1,Cars and Station-wagons,Private Hire (Chauffeur) cars,2411
+2018-Q1,Cars and Station-wagons,Off peak cars,758
+2018-Q1,Taxis,Taxis,1394
+2018-Q1,Motorcycles and Scooters,Motorcycles and Scooters,3144
+2018-Q1,Goods and Other Vehicles,Goods-cum-passengers,37
+2018-Q1,Goods and Other Vehicles,LGVs ( mlw <= 3.5 mt),2009
+2018-Q1,Goods and Other Vehicles,HGVs ( mlw >3.5 - 16 mt),546
+2018-Q1,Goods and Other Vehicles,VHGVs ( mlw > 16 mt),166
+2018-Q1,Buses,Public Buses,0
+2018-Q1,Buses,School Buses,15
+2018-Q1,Buses,Private Buses,52
+2018-Q1,Buses,Private Hire Buses,44
+2018-Q1,Buses,Excursion Buses,38
+2018-Q1,Tax Exempted Vehicles,Cars and Station-wagons,30
+2018-Q1,Tax Exempted Vehicles,Motorcycles and Scooters,10
+2018-Q1,Tax Exempted Vehicles,Buses,12
+2018-Q1,Tax Exempted Vehicles,Goods and Other Vehicles,79
+2018-Q2,Cars and Station-wagons,Private cars,25070
+2018-Q2,Cars and Station-wagons,Company cars,4658
+2018-Q2,Cars and Station-wagons,Tuition cars,22
+2018-Q2,Cars and Station-wagons,Private Hire (Self-Drive) cars,1372
+2018-Q2,Cars and Station-wagons,Private Hire (Chauffeur) cars,5049
+2018-Q2,Cars and Station-wagons,Off peak cars,1396
+2018-Q2,Taxis,Taxis,2013
+2018-Q2,Motorcycles and Scooters,Motorcycles and Scooters,7859
+2018-Q2,Goods and Other Vehicles,Goods-cum-passengers,101
+2018-Q2,Goods and Other Vehicles,LGVs ( mlw <= 3.5 mt),4655
+2018-Q2,Goods and Other Vehicles,HGVs ( mlw >3.5 - 16 mt),1139
+2018-Q2,Goods and Other Vehicles,VHGVs ( mlw > 16 mt),394
+2018-Q2,Buses,Public Buses,1
+2018-Q2,Buses,School Buses,34
+2018-Q2,Buses,Private Buses,86
+2018-Q2,Buses,Private Hire Buses,95
+2018-Q2,Buses,Excursion Buses,84
+2018-Q2,Tax Exempted Vehicles,Cars and Station-wagons,62
+2018-Q2,Tax Exempted Vehicles,Motorcycles and Scooters,11
+2018-Q2,Tax Exempted Vehicles,Buses,28
+2018-Q2,Tax Exempted Vehicles,Goods and Other Vehicles,219
+2018-Q3,Cars and Station-wagons,Private cars,38497
+2018-Q3,Cars and Station-wagons,Company cars,6918
+2018-Q3,Cars and Station-wagons,Tuition cars,51
+2018-Q3,Cars and Station-wagons,Private Hire (Self-Drive) cars,2205
+2018-Q3,Cars and Station-wagons,Private Hire (Chauffeur) cars,8241
+2018-Q3,Cars and Station-wagons,Off peak cars,1978
+2018-Q3,Taxis,Taxis,2428
+2018-Q3,Motorcycles and Scooters,Motorcycles and Scooters,12184
+2018-Q3,Goods and Other Vehicles,Goods-cum-passengers,169
+2018-Q3,Goods and Other Vehicles,LGVs ( mlw <= 3.5 mt),7379
+2018-Q3,Goods and Other Vehicles,HGVs ( mlw >3.5 - 16 mt),1671
+2018-Q3,Goods and Other Vehicles,VHGVs ( mlw > 16 mt),569
+2018-Q3,Buses,Public Buses,32
+2018-Q3,Buses,School Buses,52
+2018-Q3,Buses,Private Buses,146
+2018-Q3,Buses,Private Hire Buses,133
+2018-Q3,Buses,Excursion Buses,116
+2018-Q3,Tax Exempted Vehicles,Cars and Station-wagons,115
+2018-Q3,Tax Exempted Vehicles,Motorcycles and Scooters,14
+2018-Q3,Tax Exempted Vehicles,Buses,66
+2018-Q3,Tax Exempted Vehicles,Goods and Other Vehicles,497
+2018-Q4,Cars and Station-wagons,Private cars,52003
+2018-Q4,Cars and Station-wagons,Company cars,9115
+2018-Q4,Cars and Station-wagons,Tuition cars,76
+2018-Q4,Cars and Station-wagons,Private Hire (Self-Drive) cars,2900
+2018-Q4,Cars and Station-wagons,Private Hire (Chauffeur) cars,10352
+2018-Q4,Cars and Station-wagons,Off peak cars,2420
+2018-Q4,Taxis,Taxis,3903
+2018-Q4,Motorcycles and Scooters,Motorcycles and Scooters,16511
+2018-Q4,Goods and Other Vehicles,Goods-cum-passengers,222
+2018-Q4,Goods and Other Vehicles,LGVs ( mlw <= 3.5 mt),10059
+2018-Q4,Goods and Other Vehicles,HGVs ( mlw >3.5 - 16 mt),2169
+2018-Q4,Goods and Other Vehicles,VHGVs ( mlw > 16 mt),742
+2018-Q4,Buses,Public Buses,128
+2018-Q4,Buses,School Buses,81
+2018-Q4,Buses,Private Buses,194
+2018-Q4,Buses,Private Hire Buses,166
+2018-Q4,Buses,Excursion Buses,192
+2018-Q4,Tax Exempted Vehicles,Cars and Station-wagons,149
+2018-Q4,Tax Exempted Vehicles,Motorcycles and Scooters,15
+2018-Q4,Tax Exempted Vehicles,Buses,74
+2018-Q4,Tax Exempted Vehicles,Goods and Other Vehicles,661
+2019-Q1,Cars and Station-wagons,Private cars,12551
+2019-Q1,Cars and Station-wagons,Company cars,1974
+2019-Q1,Cars and Station-wagons,Tuition cars,22
+2019-Q1,Cars and Station-wagons,Private Hire (Self-Drive) cars,603
+2019-Q1,Cars and Station-wagons,Private Hire (Chauffeur) cars,1608
+2019-Q1,Cars and Station-wagons,Off peak cars,295
+2019-Q1,Taxis,Taxis,1083
+2019-Q1,Motorcycles and Scooters,Motorcycles and Scooters,4495
+2019-Q1,Goods and Other Vehicles,Goods-cum-passengers,68
+2019-Q1,Goods and Other Vehicles,LGVs ( mlw <= 3.5 mt),2922
+2019-Q1,Goods and Other Vehicles,HGVs ( mlw >3.5 - 16 mt),607
+2019-Q1,Goods and Other Vehicles,VHGVs ( mlw > 16 mt),221
+2019-Q1,Buses,Public Buses,12
+2019-Q1,Buses,School Buses,27
+2019-Q1,Buses,Private Buses,50
+2019-Q1,Buses,Private Hire Buses,45
+2019-Q1,Buses,Excursion Buses,75
+2019-Q1,Tax Exempted Vehicles,Cars and Station-wagons,61
+2019-Q1,Tax Exempted Vehicles,Motorcycles and Scooters,16
+2019-Q1,Tax Exempted Vehicles,Buses,5
+2019-Q1,Tax Exempted Vehicles,Goods and Other Vehicles,177
+2019-Q2,Cars and Station-wagons,Private cars,23000
+2019-Q2,Cars and Station-wagons,Company cars,3725
+2019-Q2,Cars and Station-wagons,Tuition cars,31
+2019-Q2,Cars and Station-wagons,Private Hire (Self-Drive) cars,1154
+2019-Q2,Cars and Station-wagons,Private Hire (Chauffeur) cars,2611
+2019-Q2,Cars and Station-wagons,Off peak cars,517
+2019-Q2,Taxis,Taxis,2579
+2019-Q2,Motorcycles and Scooters,Motorcycles and Scooters,8471
+2019-Q2,Goods and Other Vehicles,Goods-cum-passengers,142
+2019-Q2,Goods and Other Vehicles,LGVs ( mlw <= 3.5 mt),5582
+2019-Q2,Goods and Other Vehicles,HGVs ( mlw >3.5 - 16 mt),1264
+2019-Q2,Goods and Other Vehicles,VHGVs ( mlw > 16 mt),474
+2019-Q2,Buses,Public Buses,41
+2019-Q2,Buses,School Buses,44
+2019-Q2,Buses,Private Buses,93
+2019-Q2,Buses,Private Hire Buses,93
+2019-Q2,Buses,Excursion Buses,140
+2019-Q2,Tax Exempted Vehicles,Cars and Station-wagons,94
+2019-Q2,Tax Exempted Vehicles,Motorcycles and Scooters,16
+2019-Q2,Tax Exempted Vehicles,Buses,5
+2019-Q2,Tax Exempted Vehicles,Goods and Other Vehicles,255
+2019-Q3,Cars and Station-wagons,Private cars,32979
+2019-Q3,Cars and Station-wagons,Company cars,5409
+2019-Q3,Cars and Station-wagons,Tuition cars,68
+2019-Q3,Cars and Station-wagons,Private Hire (Self-Drive) cars,1738
+2019-Q3,Cars and Station-wagons,Private Hire (Chauffeur) cars,3579
+2019-Q3,Cars and Station-wagons,Off peak cars,779
+2019-Q3,Taxis,Taxis,3889
+2019-Q3,Motorcycles and Scooters,Motorcycles and Scooters,12479
+2019-Q3,Goods and Other Vehicles,Goods-cum-passengers,219
+2019-Q3,Goods and Other Vehicles,LGVs ( mlw <= 3.5 mt),7774
+2019-Q3,Goods and Other Vehicles,HGVs ( mlw >3.5 - 16 mt),1763
+2019-Q3,Goods and Other Vehicles,VHGVs ( mlw > 16 mt),645
+2019-Q3,Buses,Public Buses,66
+2019-Q3,Buses,School Buses,69
+2019-Q3,Buses,Private Buses,129
+2019-Q3,Buses,Private Hire Buses,120
+2019-Q3,Buses,Excursion Buses,220
+2019-Q3,Tax Exempted Vehicles,Cars and Station-wagons,136
+2019-Q3,Tax Exempted Vehicles,Motorcycles and Scooters,24
+2019-Q3,Tax Exempted Vehicles,Buses,10
+2019-Q3,Tax Exempted Vehicles,Goods and Other Vehicles,306
+2019-Q4,Cars and Station-wagons,Private cars,42509
+2019-Q4,Cars and Station-wagons,Company cars,6980
+2019-Q4,Cars and Station-wagons,Tuition cars,103
+2019-Q4,Cars and Station-wagons,Private Hire (Self-Drive) cars,2239
+2019-Q4,Cars and Station-wagons,Private Hire (Chauffeur) cars,4686
+2019-Q4,Cars and Station-wagons,Off peak cars,1045
+2019-Q4,Taxis,Taxis,5588
+2019-Q4,Motorcycles and Scooters,Motorcycles and Scooters,15922
+2019-Q4,Goods and Other Vehicles,Goods-cum-passengers,297
+2019-Q4,Goods and Other Vehicles,LGVs ( mlw <= 3.5 mt),9914
+2019-Q4,Goods and Other Vehicles,HGVs ( mlw >3.5 - 16 mt),2181
+2019-Q4,Goods and Other Vehicles,VHGVs ( mlw > 16 mt),791
+2019-Q4,Buses,Public Buses,67
+2019-Q4,Buses,School Buses,106
+2019-Q4,Buses,Private Buses,177
+2019-Q4,Buses,Private Hire Buses,149
+2019-Q4,Buses,Excursion Buses,303
+2019-Q4,Tax Exempted Vehicles,Cars and Station-wagons,158
+2019-Q4,Tax Exempted Vehicles,Motorcycles and Scooters,24
+2019-Q4,Tax Exempted Vehicles,Buses,17
+2019-Q4,Tax Exempted Vehicles,Goods and Other Vehicles,434
+2020-Q1,Cars and Station-wagons,Private cars,9247
+2020-Q1,Cars and Station-wagons,Company cars,1622
+2020-Q1,Cars and Station-wagons,Tuition cars,11
+2020-Q1,Cars and Station-wagons,Private Hire (Self-Drive) cars,481
+2020-Q1,Cars and Station-wagons,Private Hire (Chauffeur) cars,1207
+2020-Q1,Cars and Station-wagons,Off peak cars,272
+2020-Q1,Taxis,Taxis,963
+2020-Q1,Motorcycles and Scooters,Motorcycles and Scooters,3751
+2020-Q1,Goods and Other Vehicles,Goods-cum-passengers,64
+2020-Q1,Goods and Other Vehicles,LGVs ( mlw <= 3.5 mt),2168
+2020-Q1,Goods and Other Vehicles,HGVs ( mlw >3.5 - 16 mt),529
+2020-Q1,Goods and Other Vehicles,VHGVs ( mlw > 16 mt),144
+2020-Q1,Buses,Public Buses,39
+2020-Q1,Buses,School Buses,20
+2020-Q1,Buses,Private Buses,43
+2020-Q1,Buses,Private Hire Buses,22
+2020-Q1,Buses,Excursion Buses,135
+2020-Q1,Tax Exempted Vehicles,Cars and Station-wagons,27
+2020-Q1,Tax Exempted Vehicles,Motorcycles and Scooters,2
+2020-Q1,Tax Exempted Vehicles,Buses,8
+2020-Q1,Tax Exempted Vehicles,Goods and Other Vehicles,210
+2020-Q2,Cars and Station-wagons,Private cars,14390
+2020-Q2,Cars and Station-wagons,Company cars,3175
+2020-Q2,Cars and Station-wagons,Tuition cars,52
+2020-Q2,Cars and Station-wagons,Private Hire (Self-Drive) cars,884
+2020-Q2,Cars and Station-wagons,Private Hire (Chauffeur) cars,2414
+2020-Q2,Cars and Station-wagons,Off peak cars,422
+2020-Q2,Taxis,Taxis,2717
+2020-Q2,Motorcycles and Scooters,Motorcycles and Scooters,5436
+2020-Q2,Goods and Other Vehicles,Goods-cum-passengers,110
+2020-Q2,Goods and Other Vehicles,LGVs ( mlw <= 3.5 mt),3371
+2020-Q2,Goods and Other Vehicles,HGVs ( mlw >3.5 - 16 mt),855
+2020-Q2,Goods and Other Vehicles,VHGVs ( mlw > 16 mt),257
+2020-Q2,Buses,Public Buses,56
+2020-Q2,Buses,School Buses,35
+2020-Q2,Buses,Private Buses,78
+2020-Q2,Buses,Private Hire Buses,44
+2020-Q2,Buses,Excursion Buses,229
+2020-Q2,Tax Exempted Vehicles,Cars and Station-wagons,32
+2020-Q2,Tax Exempted Vehicles,Motorcycles and Scooters,4
+2020-Q2,Tax Exempted Vehicles,Buses,11
+2020-Q2,Tax Exempted Vehicles,Goods and Other Vehicles,226

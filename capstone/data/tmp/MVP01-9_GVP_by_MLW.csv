@@ -1,0 +1,1811 @@
+year,max_laden_wt,type,number
+2004,<= 3500 kg,Lorries,29282
+2004,<= 3500 kg,Tippers,0
+2004,<= 3500 kg,Vans,54183
+2004,<= 3500 kg,Goods-cum Passengers,5855
+2004,<= 3500 kg,Articulated Vehicles,0
+2004,<= 3500 kg,Cement Mixers,0
+2004,<= 3500 kg,Tankers,11
+2004,<= 3500 kg,Cranes,15
+2004,<= 3500 kg,Recovery Vehicles,123
+2004,<= 3500 kg,Refrigerated Vehicles,974
+2004,<= 3500 kg,Others,74
+2004,3501 - 7000kg,Lorries,12767
+2004,3501 - 7000kg,Tippers,296
+2004,3501 - 7000kg,Vans,4191
+2004,3501 - 7000kg,Goods-cum Passengers,62
+2004,3501 - 7000kg,Articulated Vehicles,0
+2004,3501 - 7000kg,Cement Mixers,0
+2004,3501 - 7000kg,Tankers,6
+2004,3501 - 7000kg,Cranes,0
+2004,3501 - 7000kg,Recovery Vehicles,114
+2004,3501 - 7000kg,Refrigerated Vehicles,1323
+2004,3501 - 7000kg,Others,77
+2004,7001 - 11000kg,Lorries,2901
+2004,7001 - 11000kg,Tippers,126
+2004,7001 - 11000kg,Vans,1443
+2004,7001 - 11000kg,Goods-cum Passengers,0
+2004,7001 - 11000kg,Articulated Vehicles,0
+2004,7001 - 11000kg,Cement Mixers,0
+2004,7001 - 11000kg,Tankers,40
+2004,7001 - 11000kg,Cranes,5
+2004,7001 - 11000kg,Recovery Vehicles,97
+2004,7001 - 11000kg,Refrigerated Vehicles,125
+2004,7001 - 11000kg,Others,74
+2004,11001-16000kg,Lorries,1508
+2004,11001-16000kg,Tippers,222
+2004,11001-16000kg,Vans,214
+2004,11001-16000kg,Goods-cum Passengers,0
+2004,11001-16000kg,Articulated Vehicles,0
+2004,11001-16000kg,Cement Mixers,0
+2004,11001-16000kg,Tankers,68
+2004,11001-16000kg,Cranes,1
+2004,11001-16000kg,Recovery Vehicles,26
+2004,11001-16000kg,Refrigerated Vehicles,128
+2004,11001-16000kg,Others,275
+2004,16001-20000kg,Lorries,13
+2004,16001-20000kg,Tippers,0
+2004,16001-20000kg,Vans,0
+2004,16001-20000kg,Goods-cum Passengers,0
+2004,16001-20000kg,Articulated Vehicles,0
+2004,16001-20000kg,Cement Mixers,0
+2004,16001-20000kg,Tankers,0
+2004,16001-20000kg,Cranes,1
+2004,16001-20000kg,Recovery Vehicles,0
+2004,16001-20000kg,Refrigerated Vehicles,0
+2004,16001-20000kg,Others,2
+2004,20001-26000kg,Lorries,1533
+2004,20001-26000kg,Tippers,2402
+2004,20001-26000kg,Vans,2
+2004,20001-26000kg,Goods-cum Passengers,0
+2004,20001-26000kg,Articulated Vehicles,5
+2004,20001-26000kg,Cement Mixers,904
+2004,20001-26000kg,Tankers,340
+2004,20001-26000kg,Cranes,94
+2004,20001-26000kg,Recovery Vehicles,31
+2004,20001-26000kg,Refrigerated Vehicles,5
+2004,20001-26000kg,Others,783
+2004,26001-32000kg,Lorries,117
+2004,26001-32000kg,Tippers,6
+2004,26001-32000kg,Vans,0
+2004,26001-32000kg,Goods-cum Passengers,0
+2004,26001-32000kg,Articulated Vehicles,0
+2004,26001-32000kg,Cement Mixers,46
+2004,26001-32000kg,Tankers,35
+2004,26001-32000kg,Cranes,17
+2004,26001-32000kg,Recovery Vehicles,1
+2004,26001-32000kg,Refrigerated Vehicles,0
+2004,26001-32000kg,Others,51
+2004,32001-40000kg,Lorries,0
+2004,32001-40000kg,Tippers,0
+2004,32001-40000kg,Vans,0
+2004,32001-40000kg,Goods-cum Passengers,0
+2004,32001-40000kg,Articulated Vehicles,23
+2004,32001-40000kg,Cement Mixers,0
+2004,32001-40000kg,Tankers,1
+2004,32001-40000kg,Cranes,40
+2004,32001-40000kg,Recovery Vehicles,4
+2004,32001-40000kg,Refrigerated Vehicles,0
+2004,32001-40000kg,Others,0
+2004,40001-50000kg,Lorries,0
+2004,40001-50000kg,Tippers,0
+2004,40001-50000kg,Vans,0
+2004,40001-50000kg,Goods-cum Passengers,0
+2004,40001-50000kg,Articulated Vehicles,3189
+2004,40001-50000kg,Cement Mixers,0
+2004,40001-50000kg,Tankers,0
+2004,40001-50000kg,Cranes,144
+2004,40001-50000kg,Recovery Vehicles,3
+2004,40001-50000kg,Refrigerated Vehicles,0
+2004,40001-50000kg,Others,0
+2004,> 55000kg,Lorries,0
+2004,> 55000kg,Tippers,0
+2004,> 55000kg,Vans,0
+2004,> 55000kg,Goods-cum Passengers,0
+2004,> 55000kg,Articulated Vehicles,299
+2004,> 55000kg,Cement Mixers,0
+2004,> 55000kg,Tankers,0
+2004,> 55000kg,Cranes,9
+2004,> 55000kg,Recovery Vehicles,3
+2004,> 55000kg,Refrigerated Vehicles,0
+2004,> 55000kg,Others,0
+2005,<= 3500 kg,Lorries,29106
+2005,<= 3500 kg,Tippers,0
+2005,<= 3500 kg,Vans,55528
+2005,<= 3500 kg,Goods-cum Passengers,5644
+2005,<= 3500 kg,Articulated Vehicles,0
+2005,<= 3500 kg,Cement Mixers,0
+2005,<= 3500 kg,Tankers,10
+2005,<= 3500 kg,Cranes,15
+2005,<= 3500 kg,Recovery Vehicles,114
+2005,<= 3500 kg,Refrigerated Vehicles,1044
+2005,<= 3500 kg,Others,74
+2005,3501 - 7000kg,Lorries,13124
+2005,3501 - 7000kg,Tippers,278
+2005,3501 - 7000kg,Vans,4329
+2005,3501 - 7000kg,Goods-cum Passengers,53
+2005,3501 - 7000kg,Articulated Vehicles,0
+2005,3501 - 7000kg,Cement Mixers,0
+2005,3501 - 7000kg,Tankers,9
+2005,3501 - 7000kg,Cranes,0
+2005,3501 - 7000kg,Recovery Vehicles,110
+2005,3501 - 7000kg,Refrigerated Vehicles,1393
+2005,3501 - 7000kg,Others,101
+2005,7001 - 11000kg,Lorries,2937
+2005,7001 - 11000kg,Tippers,114
+2005,7001 - 11000kg,Vans,1536
+2005,7001 - 11000kg,Goods-cum Passengers,0
+2005,7001 - 11000kg,Articulated Vehicles,0
+2005,7001 - 11000kg,Cement Mixers,0
+2005,7001 - 11000kg,Tankers,51
+2005,7001 - 11000kg,Cranes,5
+2005,7001 - 11000kg,Recovery Vehicles,98
+2005,7001 - 11000kg,Refrigerated Vehicles,125
+2005,7001 - 11000kg,Others,59
+2005,11001-16000kg,Lorries,1554
+2005,11001-16000kg,Tippers,197
+2005,11001-16000kg,Vans,237
+2005,11001-16000kg,Goods-cum Passengers,0
+2005,11001-16000kg,Articulated Vehicles,0
+2005,11001-16000kg,Cement Mixers,0
+2005,11001-16000kg,Tankers,77
+2005,11001-16000kg,Cranes,1
+2005,11001-16000kg,Recovery Vehicles,24
+2005,11001-16000kg,Refrigerated Vehicles,140
+2005,11001-16000kg,Others,257
+2005,16001-20000kg,Lorries,5
+2005,16001-20000kg,Tippers,1
+2005,16001-20000kg,Vans,0
+2005,16001-20000kg,Goods-cum Passengers,0
+2005,16001-20000kg,Articulated Vehicles,0
+2005,16001-20000kg,Cement Mixers,0
+2005,16001-20000kg,Tankers,1
+2005,16001-20000kg,Cranes,1
+2005,16001-20000kg,Recovery Vehicles,0
+2005,16001-20000kg,Refrigerated Vehicles,0
+2005,16001-20000kg,Others,11
+2005,20001-26000kg,Lorries,1463
+2005,20001-26000kg,Tippers,1561
+2005,20001-26000kg,Vans,3
+2005,20001-26000kg,Goods-cum Passengers,0
+2005,20001-26000kg,Articulated Vehicles,2
+2005,20001-26000kg,Cement Mixers,792
+2005,20001-26000kg,Tankers,312
+2005,20001-26000kg,Cranes,72
+2005,20001-26000kg,Recovery Vehicles,33
+2005,20001-26000kg,Refrigerated Vehicles,6
+2005,20001-26000kg,Others,738
+2005,26001-32000kg,Lorries,181
+2005,26001-32000kg,Tippers,576
+2005,26001-32000kg,Vans,0
+2005,26001-32000kg,Goods-cum Passengers,0
+2005,26001-32000kg,Articulated Vehicles,1
+2005,26001-32000kg,Cement Mixers,31
+2005,26001-32000kg,Tankers,43
+2005,26001-32000kg,Cranes,19
+2005,26001-32000kg,Recovery Vehicles,2
+2005,26001-32000kg,Refrigerated Vehicles,0
+2005,26001-32000kg,Others,86
+2005,32001-40000kg,Lorries,14
+2005,32001-40000kg,Tippers,0
+2005,32001-40000kg,Vans,0
+2005,32001-40000kg,Goods-cum Passengers,0
+2005,32001-40000kg,Articulated Vehicles,2
+2005,32001-40000kg,Cement Mixers,21
+2005,32001-40000kg,Tankers,7
+2005,32001-40000kg,Cranes,50
+2005,32001-40000kg,Recovery Vehicles,0
+2005,32001-40000kg,Refrigerated Vehicles,0
+2005,32001-40000kg,Others,9
+2005,40001-50000kg,Lorries,0
+2005,40001-50000kg,Tippers,0
+2005,40001-50000kg,Vans,0
+2005,40001-50000kg,Goods-cum Passengers,0
+2005,40001-50000kg,Articulated Vehicles,3277
+2005,40001-50000kg,Cement Mixers,0
+2005,40001-50000kg,Tankers,0
+2005,40001-50000kg,Cranes,140
+2005,40001-50000kg,Recovery Vehicles,2
+2005,40001-50000kg,Refrigerated Vehicles,0
+2005,40001-50000kg,Others,0
+2005,> 55000kg,Lorries,0
+2005,> 55000kg,Tippers,0
+2005,> 55000kg,Vans,0
+2005,> 55000kg,Goods-cum Passengers,0
+2005,> 55000kg,Articulated Vehicles,369
+2005,> 55000kg,Cement Mixers,0
+2005,> 55000kg,Tankers,0
+2005,> 55000kg,Cranes,16
+2005,> 55000kg,Recovery Vehicles,2
+2005,> 55000kg,Refrigerated Vehicles,0
+2005,> 55000kg,Others,0
+2006,<= 3500 kg,Lorries,29759
+2006,<= 3500 kg,Tippers,1
+2006,<= 3500 kg,Vans,56745
+2006,<= 3500 kg,Goods-cum Passengers,5391
+2006,<= 3500 kg,Articulated Vehicles,0
+2006,<= 3500 kg,Cement Mixers,0
+2006,<= 3500 kg,Tankers,7
+2006,<= 3500 kg,Cranes,0
+2006,<= 3500 kg,Recovery Vehicles,111
+2006,<= 3500 kg,Refrigerated Vehicles,1129
+2006,<= 3500 kg,Others,53
+2006,3501 - 7000kg,Lorries,14142
+2006,3501 - 7000kg,Tippers,289
+2006,3501 - 7000kg,Vans,4594
+2006,3501 - 7000kg,Goods-cum Passengers,48
+2006,3501 - 7000kg,Articulated Vehicles,0
+2006,3501 - 7000kg,Cement Mixers,0
+2006,3501 - 7000kg,Tankers,12
+2006,3501 - 7000kg,Cranes,0
+2006,3501 - 7000kg,Recovery Vehicles,109
+2006,3501 - 7000kg,Refrigerated Vehicles,1501
+2006,3501 - 7000kg,Others,97
+2006,7001 - 11000kg,Lorries,3308
+2006,7001 - 11000kg,Tippers,119
+2006,7001 - 11000kg,Vans,1729
+2006,7001 - 11000kg,Goods-cum Passengers,0
+2006,7001 - 11000kg,Articulated Vehicles,0
+2006,7001 - 11000kg,Cement Mixers,0
+2006,7001 - 11000kg,Tankers,64
+2006,7001 - 11000kg,Cranes,5
+2006,7001 - 11000kg,Recovery Vehicles,98
+2006,7001 - 11000kg,Refrigerated Vehicles,148
+2006,7001 - 11000kg,Others,49
+2006,11001-16000kg,Lorries,1736
+2006,11001-16000kg,Tippers,187
+2006,11001-16000kg,Vans,269
+2006,11001-16000kg,Goods-cum Passengers,0
+2006,11001-16000kg,Articulated Vehicles,0
+2006,11001-16000kg,Cement Mixers,0
+2006,11001-16000kg,Tankers,80
+2006,11001-16000kg,Cranes,1
+2006,11001-16000kg,Recovery Vehicles,24
+2006,11001-16000kg,Refrigerated Vehicles,157
+2006,11001-16000kg,Others,265
+2006,16001-20000kg,Lorries,8
+2006,16001-20000kg,Tippers,1
+2006,16001-20000kg,Vans,0
+2006,16001-20000kg,Goods-cum Passengers,0
+2006,16001-20000kg,Articulated Vehicles,0
+2006,16001-20000kg,Cement Mixers,0
+2006,16001-20000kg,Tankers,2
+2006,16001-20000kg,Cranes,0
+2006,16001-20000kg,Recovery Vehicles,0
+2006,16001-20000kg,Refrigerated Vehicles,1
+2006,16001-20000kg,Others,11
+2006,20001-26000kg,Lorries,1362
+2006,20001-26000kg,Tippers,578
+2006,20001-26000kg,Vans,3
+2006,20001-26000kg,Goods-cum Passengers,0
+2006,20001-26000kg,Articulated Vehicles,1
+2006,20001-26000kg,Cement Mixers,721
+2006,20001-26000kg,Tankers,300
+2006,20001-26000kg,Cranes,71
+2006,20001-26000kg,Recovery Vehicles,31
+2006,20001-26000kg,Refrigerated Vehicles,5
+2006,20001-26000kg,Others,619
+2006,26001-32000kg,Lorries,475
+2006,26001-32000kg,Tippers,1569
+2006,26001-32000kg,Vans,0
+2006,26001-32000kg,Goods-cum Passengers,0
+2006,26001-32000kg,Articulated Vehicles,1
+2006,26001-32000kg,Cement Mixers,83
+2006,26001-32000kg,Tankers,53
+2006,26001-32000kg,Cranes,48
+2006,26001-32000kg,Recovery Vehicles,2
+2006,26001-32000kg,Refrigerated Vehicles,1
+2006,26001-32000kg,Others,188
+2006,32001-40000kg,Lorries,71
+2006,32001-40000kg,Tippers,2
+2006,32001-40000kg,Vans,0
+2006,32001-40000kg,Goods-cum Passengers,0
+2006,32001-40000kg,Articulated Vehicles,2
+2006,32001-40000kg,Cement Mixers,109
+2006,32001-40000kg,Tankers,9
+2006,32001-40000kg,Cranes,73
+2006,32001-40000kg,Recovery Vehicles,0
+2006,32001-40000kg,Refrigerated Vehicles,0
+2006,32001-40000kg,Others,18
+2006,40001-50000kg,Lorries,0
+2006,40001-50000kg,Tippers,0
+2006,40001-50000kg,Vans,0
+2006,40001-50000kg,Goods-cum Passengers,0
+2006,40001-50000kg,Articulated Vehicles,3551
+2006,40001-50000kg,Cement Mixers,0
+2006,40001-50000kg,Tankers,0
+2006,40001-50000kg,Cranes,138
+2006,40001-50000kg,Recovery Vehicles,2
+2006,40001-50000kg,Refrigerated Vehicles,0
+2006,40001-50000kg,Others,0
+2006,> 55000kg,Lorries,0
+2006,> 55000kg,Tippers,0
+2006,> 55000kg,Vans,0
+2006,> 55000kg,Goods-cum Passengers,0
+2006,> 55000kg,Articulated Vehicles,479
+2006,> 55000kg,Cement Mixers,0
+2006,> 55000kg,Tankers,0
+2006,> 55000kg,Cranes,24
+2006,> 55000kg,Recovery Vehicles,2
+2006,> 55000kg,Refrigerated Vehicles,0
+2006,> 55000kg,Others,0
+2007,<= 3500 kg,Lorries,30510
+2007,<= 3500 kg,Tippers,1
+2007,<= 3500 kg,Vans,60054
+2007,<= 3500 kg,Goods-cum Passengers,5037
+2007,<= 3500 kg,Articulated Vehicles,0
+2007,<= 3500 kg,Cement Mixers,0
+2007,<= 3500 kg,Tankers,7
+2007,<= 3500 kg,Cranes,0
+2007,<= 3500 kg,Recovery Vehicles,109
+2007,<= 3500 kg,Refrigerated Vehicles,1210
+2007,<= 3500 kg,Others,54
+2007,3501 - 7000kg,Lorries,14890
+2007,3501 - 7000kg,Tippers,278
+2007,3501 - 7000kg,Vans,4784
+2007,3501 - 7000kg,Goods-cum Passengers,37
+2007,3501 - 7000kg,Articulated Vehicles,0
+2007,3501 - 7000kg,Cement Mixers,0
+2007,3501 - 7000kg,Tankers,14
+2007,3501 - 7000kg,Cranes,0
+2007,3501 - 7000kg,Recovery Vehicles,111
+2007,3501 - 7000kg,Refrigerated Vehicles,1551
+2007,3501 - 7000kg,Others,96
+2007,7001 - 11000kg,Lorries,3303
+2007,7001 - 11000kg,Tippers,124
+2007,7001 - 11000kg,Vans,1829
+2007,7001 - 11000kg,Goods-cum Passengers,0
+2007,7001 - 11000kg,Articulated Vehicles,0
+2007,7001 - 11000kg,Cement Mixers,0
+2007,7001 - 11000kg,Tankers,67
+2007,7001 - 11000kg,Cranes,5
+2007,7001 - 11000kg,Recovery Vehicles,103
+2007,7001 - 11000kg,Refrigerated Vehicles,163
+2007,7001 - 11000kg,Others,42
+2007,11001-16000kg,Lorries,1806
+2007,11001-16000kg,Tippers,183
+2007,11001-16000kg,Vans,318
+2007,11001-16000kg,Goods-cum Passengers,0
+2007,11001-16000kg,Articulated Vehicles,0
+2007,11001-16000kg,Cement Mixers,0
+2007,11001-16000kg,Tankers,88
+2007,11001-16000kg,Cranes,1
+2007,11001-16000kg,Recovery Vehicles,24
+2007,11001-16000kg,Refrigerated Vehicles,167
+2007,11001-16000kg,Others,260
+2007,16001-20000kg,Lorries,12
+2007,16001-20000kg,Tippers,1
+2007,16001-20000kg,Vans,2
+2007,16001-20000kg,Goods-cum Passengers,0
+2007,16001-20000kg,Articulated Vehicles,0
+2007,16001-20000kg,Cement Mixers,0
+2007,16001-20000kg,Tankers,2
+2007,16001-20000kg,Cranes,0
+2007,16001-20000kg,Recovery Vehicles,0
+2007,16001-20000kg,Refrigerated Vehicles,1
+2007,16001-20000kg,Others,14
+2007,20001-26000kg,Lorries,1292
+2007,20001-26000kg,Tippers,353
+2007,20001-26000kg,Vans,3
+2007,20001-26000kg,Goods-cum Passengers,0
+2007,20001-26000kg,Articulated Vehicles,1
+2007,20001-26000kg,Cement Mixers,682
+2007,20001-26000kg,Tankers,289
+2007,20001-26000kg,Cranes,62
+2007,20001-26000kg,Recovery Vehicles,31
+2007,20001-26000kg,Refrigerated Vehicles,5
+2007,20001-26000kg,Others,559
+2007,26001-32000kg,Lorries,554
+2007,26001-32000kg,Tippers,2016
+2007,26001-32000kg,Vans,0
+2007,26001-32000kg,Goods-cum Passengers,0
+2007,26001-32000kg,Articulated Vehicles,2
+2007,26001-32000kg,Cement Mixers,126
+2007,26001-32000kg,Tankers,67
+2007,26001-32000kg,Cranes,47
+2007,26001-32000kg,Recovery Vehicles,4
+2007,26001-32000kg,Refrigerated Vehicles,2
+2007,26001-32000kg,Others,281
+2007,32001-40000kg,Lorries,104
+2007,32001-40000kg,Tippers,2
+2007,32001-40000kg,Vans,0
+2007,32001-40000kg,Goods-cum Passengers,0
+2007,32001-40000kg,Articulated Vehicles,2
+2007,32001-40000kg,Cement Mixers,365
+2007,32001-40000kg,Tankers,25
+2007,32001-40000kg,Cranes,75
+2007,32001-40000kg,Recovery Vehicles,0
+2007,32001-40000kg,Refrigerated Vehicles,0
+2007,32001-40000kg,Others,33
+2007,40001-50000kg,Lorries,0
+2007,40001-50000kg,Tippers,0
+2007,40001-50000kg,Vans,0
+2007,40001-50000kg,Goods-cum Passengers,0
+2007,40001-50000kg,Articulated Vehicles,3711
+2007,40001-50000kg,Cement Mixers,0
+2007,40001-50000kg,Tankers,0
+2007,40001-50000kg,Cranes,124
+2007,40001-50000kg,Recovery Vehicles,3
+2007,40001-50000kg,Refrigerated Vehicles,0
+2007,40001-50000kg,Others,0
+2007,> 55000kg,Lorries,0
+2007,> 55000kg,Tippers,0
+2007,> 55000kg,Vans,0
+2007,> 55000kg,Goods-cum Passengers,0
+2007,> 55000kg,Articulated Vehicles,489
+2007,> 55000kg,Cement Mixers,0
+2007,> 55000kg,Tankers,0
+2007,> 55000kg,Cranes,35
+2007,> 55000kg,Recovery Vehicles,2
+2007,> 55000kg,Refrigerated Vehicles,0
+2007,> 55000kg,Others,0
+2008,<= 3500 kg,Lorries,31539
+2008,<= 3500 kg,Tippers,1
+2008,<= 3500 kg,Vans,61040
+2008,<= 3500 kg,Goods-cum Passengers,4896
+2008,<= 3500 kg,Articulated Vehicles,0
+2008,<= 3500 kg,Cement Mixers,0
+2008,<= 3500 kg,Tankers,7
+2008,<= 3500 kg,Cranes,0
+2008,<= 3500 kg,Recovery Vehicles,108
+2008,<= 3500 kg,Refrigerated Vehicles,1298
+2008,<= 3500 kg,Others,52
+2008,3501 - 7000kg,Lorries,15624
+2008,3501 - 7000kg,Tippers,297
+2008,3501 - 7000kg,Vans,4864
+2008,3501 - 7000kg,Goods-cum Passengers,45
+2008,3501 - 7000kg,Articulated Vehicles,0
+2008,3501 - 7000kg,Cement Mixers,0
+2008,3501 - 7000kg,Tankers,14
+2008,3501 - 7000kg,Cranes,0
+2008,3501 - 7000kg,Recovery Vehicles,116
+2008,3501 - 7000kg,Refrigerated Vehicles,1607
+2008,3501 - 7000kg,Others,97
+2008,7001 - 11000kg,Lorries,3392
+2008,7001 - 11000kg,Tippers,129
+2008,7001 - 11000kg,Vans,1852
+2008,7001 - 11000kg,Goods-cum Passengers,0
+2008,7001 - 11000kg,Articulated Vehicles,0
+2008,7001 - 11000kg,Cement Mixers,0
+2008,7001 - 11000kg,Tankers,66
+2008,7001 - 11000kg,Cranes,5
+2008,7001 - 11000kg,Recovery Vehicles,107
+2008,7001 - 11000kg,Refrigerated Vehicles,176
+2008,7001 - 11000kg,Others,41
+2008,11001-16000kg,Lorries,1919
+2008,11001-16000kg,Tippers,181
+2008,11001-16000kg,Vans,321
+2008,11001-16000kg,Goods-cum Passengers,0
+2008,11001-16000kg,Articulated Vehicles,0
+2008,11001-16000kg,Cement Mixers,0
+2008,11001-16000kg,Tankers,97
+2008,11001-16000kg,Cranes,1
+2008,11001-16000kg,Recovery Vehicles,24
+2008,11001-16000kg,Refrigerated Vehicles,178
+2008,11001-16000kg,Others,275
+2008,16001-20000kg,Lorries,15
+2008,16001-20000kg,Tippers,1
+2008,16001-20000kg,Vans,6
+2008,16001-20000kg,Goods-cum Passengers,0
+2008,16001-20000kg,Articulated Vehicles,0
+2008,16001-20000kg,Cement Mixers,0
+2008,16001-20000kg,Tankers,3
+2008,16001-20000kg,Cranes,0
+2008,16001-20000kg,Recovery Vehicles,0
+2008,16001-20000kg,Refrigerated Vehicles,1
+2008,16001-20000kg,Others,15
+2008,20001-26000kg,Lorries,1249
+2008,20001-26000kg,Tippers,299
+2008,20001-26000kg,Vans,3
+2008,20001-26000kg,Goods-cum Passengers,0
+2008,20001-26000kg,Articulated Vehicles,1
+2008,20001-26000kg,Cement Mixers,574
+2008,20001-26000kg,Tankers,268
+2008,20001-26000kg,Cranes,54
+2008,20001-26000kg,Recovery Vehicles,31
+2008,20001-26000kg,Refrigerated Vehicles,5
+2008,20001-26000kg,Others,521
+2008,26001-32000kg,Lorries,732
+2008,26001-32000kg,Tippers,2510
+2008,26001-32000kg,Vans,0
+2008,26001-32000kg,Goods-cum Passengers,0
+2008,26001-32000kg,Articulated Vehicles,1
+2008,26001-32000kg,Cement Mixers,162
+2008,26001-32000kg,Tankers,91
+2008,26001-32000kg,Cranes,47
+2008,26001-32000kg,Recovery Vehicles,4
+2008,26001-32000kg,Refrigerated Vehicles,4
+2008,26001-32000kg,Others,366
+2008,32001-40000kg,Lorries,160
+2008,32001-40000kg,Tippers,3
+2008,32001-40000kg,Vans,0
+2008,32001-40000kg,Goods-cum Passengers,0
+2008,32001-40000kg,Articulated Vehicles,2
+2008,32001-40000kg,Cement Mixers,547
+2008,32001-40000kg,Tankers,43
+2008,32001-40000kg,Cranes,79
+2008,32001-40000kg,Recovery Vehicles,0
+2008,32001-40000kg,Refrigerated Vehicles,0
+2008,32001-40000kg,Others,53
+2008,40001-50000kg,Lorries,0
+2008,40001-50000kg,Tippers,0
+2008,40001-50000kg,Vans,0
+2008,40001-50000kg,Goods-cum Passengers,0
+2008,40001-50000kg,Articulated Vehicles,4004
+2008,40001-50000kg,Cement Mixers,0
+2008,40001-50000kg,Tankers,0
+2008,40001-50000kg,Cranes,125
+2008,40001-50000kg,Recovery Vehicles,4
+2008,40001-50000kg,Refrigerated Vehicles,0
+2008,40001-50000kg,Others,0
+2008,> 55000kg,Lorries,0
+2008,> 55000kg,Tippers,0
+2008,> 55000kg,Vans,0
+2008,> 55000kg,Goods-cum Passengers,0
+2008,> 55000kg,Articulated Vehicles,566
+2008,> 55000kg,Cement Mixers,0
+2008,> 55000kg,Tankers,0
+2008,> 55000kg,Cranes,46
+2008,> 55000kg,Recovery Vehicles,2
+2008,> 55000kg,Refrigerated Vehicles,0
+2008,> 55000kg,Others,0
+2009,<= 3500 kg,Lorries,32268
+2009,<= 3500 kg,Tippers,2
+2009,<= 3500 kg,Vans,61362
+2009,<= 3500 kg,Goods-cum Passengers,4737
+2009,<= 3500 kg,Articulated Vehicles,0
+2009,<= 3500 kg,Cement Mixers,0
+2009,<= 3500 kg,Tankers,9
+2009,<= 3500 kg,Cranes,0
+2009,<= 3500 kg,Recovery Vehicles,111
+2009,<= 3500 kg,Refrigerated Vehicles,1386
+2009,<= 3500 kg,Others,47
+2009,3501 - 7000kg,Lorries,15983
+2009,3501 - 7000kg,Tippers,308
+2009,3501 - 7000kg,Vans,4871
+2009,3501 - 7000kg,Goods-cum Passengers,34
+2009,3501 - 7000kg,Articulated Vehicles,0
+2009,3501 - 7000kg,Cement Mixers,0
+2009,3501 - 7000kg,Tankers,17
+2009,3501 - 7000kg,Cranes,0
+2009,3501 - 7000kg,Recovery Vehicles,119
+2009,3501 - 7000kg,Refrigerated Vehicles,1674
+2009,3501 - 7000kg,Others,96
+2009,7001 - 11000kg,Lorries,3444
+2009,7001 - 11000kg,Tippers,136
+2009,7001 - 11000kg,Vans,1786
+2009,7001 - 11000kg,Goods-cum Passengers,0
+2009,7001 - 11000kg,Articulated Vehicles,0
+2009,7001 - 11000kg,Cement Mixers,0
+2009,7001 - 11000kg,Tankers,67
+2009,7001 - 11000kg,Cranes,6
+2009,7001 - 11000kg,Recovery Vehicles,113
+2009,7001 - 11000kg,Refrigerated Vehicles,193
+2009,7001 - 11000kg,Others,36
+2009,11001-16000kg,Lorries,1943
+2009,11001-16000kg,Tippers,182
+2009,11001-16000kg,Vans,306
+2009,11001-16000kg,Goods-cum Passengers,0
+2009,11001-16000kg,Articulated Vehicles,0
+2009,11001-16000kg,Cement Mixers,0
+2009,11001-16000kg,Tankers,106
+2009,11001-16000kg,Cranes,1
+2009,11001-16000kg,Recovery Vehicles,23
+2009,11001-16000kg,Refrigerated Vehicles,181
+2009,11001-16000kg,Others,293
+2009,16001-20000kg,Lorries,18
+2009,16001-20000kg,Tippers,1
+2009,16001-20000kg,Vans,8
+2009,16001-20000kg,Goods-cum Passengers,0
+2009,16001-20000kg,Articulated Vehicles,0
+2009,16001-20000kg,Cement Mixers,0
+2009,16001-20000kg,Tankers,3
+2009,16001-20000kg,Cranes,0
+2009,16001-20000kg,Recovery Vehicles,0
+2009,16001-20000kg,Refrigerated Vehicles,1
+2009,16001-20000kg,Others,17
+2009,20001-26000kg,Lorries,1198
+2009,20001-26000kg,Tippers,258
+2009,20001-26000kg,Vans,3
+2009,20001-26000kg,Goods-cum Passengers,0
+2009,20001-26000kg,Articulated Vehicles,1
+2009,20001-26000kg,Cement Mixers,488
+2009,20001-26000kg,Tankers,254
+2009,20001-26000kg,Cranes,46
+2009,20001-26000kg,Recovery Vehicles,30
+2009,20001-26000kg,Refrigerated Vehicles,5
+2009,20001-26000kg,Others,503
+2009,26001-32000kg,Lorries,868
+2009,26001-32000kg,Tippers,2635
+2009,26001-32000kg,Vans,0
+2009,26001-32000kg,Goods-cum Passengers,0
+2009,26001-32000kg,Articulated Vehicles,1
+2009,26001-32000kg,Cement Mixers,186
+2009,26001-32000kg,Tankers,106
+2009,26001-32000kg,Cranes,47
+2009,26001-32000kg,Recovery Vehicles,4
+2009,26001-32000kg,Refrigerated Vehicles,4
+2009,26001-32000kg,Others,412
+2009,32001-40000kg,Lorries,194
+2009,32001-40000kg,Tippers,3
+2009,32001-40000kg,Vans,0
+2009,32001-40000kg,Goods-cum Passengers,0
+2009,32001-40000kg,Articulated Vehicles,2
+2009,32001-40000kg,Cement Mixers,582
+2009,32001-40000kg,Tankers,57
+2009,32001-40000kg,Cranes,95
+2009,32001-40000kg,Recovery Vehicles,0
+2009,32001-40000kg,Refrigerated Vehicles,0
+2009,32001-40000kg,Others,63
+2009,40001-50000kg,Lorries,0
+2009,40001-50000kg,Tippers,0
+2009,40001-50000kg,Vans,0
+2009,40001-50000kg,Goods-cum Passengers,0
+2009,40001-50000kg,Articulated Vehicles,4036
+2009,40001-50000kg,Cement Mixers,0
+2009,40001-50000kg,Tankers,0
+2009,40001-50000kg,Cranes,133
+2009,40001-50000kg,Recovery Vehicles,5
+2009,40001-50000kg,Refrigerated Vehicles,0
+2009,40001-50000kg,Others,0
+2009,> 55000kg,Lorries,0
+2009,> 55000kg,Tippers,0
+2009,> 55000kg,Vans,0
+2009,> 55000kg,Goods-cum Passengers,0
+2009,> 55000kg,Articulated Vehicles,619
+2009,> 55000kg,Cement Mixers,0
+2009,> 55000kg,Tankers,0
+2009,> 55000kg,Cranes,74
+2009,> 55000kg,Recovery Vehicles,2
+2009,> 55000kg,Refrigerated Vehicles,0
+2009,> 55000kg,Others,0
+2010,<= 3500 kg,Lorries,31993
+2010,<= 3500 kg,Tippers,2
+2010,<= 3500 kg,Vans,60350
+2010,<= 3500 kg,Goods-cum Passengers,4546
+2010,<= 3500 kg,Articulated Vehicles,0
+2010,<= 3500 kg,Cement Mixers,0
+2010,<= 3500 kg,Tankers,8
+2010,<= 3500 kg,Cranes,0
+2010,<= 3500 kg,Recovery Vehicles,105
+2010,<= 3500 kg,Refrigerated Vehicles,1499
+2010,<= 3500 kg,Others,42
+2010,3501 - 7000kg,Lorries,15855
+2010,3501 - 7000kg,Tippers,311
+2010,3501 - 7000kg,Vans,4910
+2010,3501 - 7000kg,Goods-cum Passengers,24
+2010,3501 - 7000kg,Articulated Vehicles,0
+2010,3501 - 7000kg,Cement Mixers,0
+2010,3501 - 7000kg,Tankers,19
+2010,3501 - 7000kg,Cranes,0
+2010,3501 - 7000kg,Recovery Vehicles,120
+2010,3501 - 7000kg,Refrigerated Vehicles,1752
+2010,3501 - 7000kg,Others,56
+2010,7001 - 11000kg,Lorries,3403
+2010,7001 - 11000kg,Tippers,132
+2010,7001 - 11000kg,Vans,1797
+2010,7001 - 11000kg,Goods-cum Passengers,0
+2010,7001 - 11000kg,Articulated Vehicles,0
+2010,7001 - 11000kg,Cement Mixers,0
+2010,7001 - 11000kg,Tankers,73
+2010,7001 - 11000kg,Cranes,6
+2010,7001 - 11000kg,Recovery Vehicles,112
+2010,7001 - 11000kg,Refrigerated Vehicles,206
+2010,7001 - 11000kg,Others,34
+2010,11001-16000kg,Lorries,1961
+2010,11001-16000kg,Tippers,172
+2010,11001-16000kg,Vans,320
+2010,11001-16000kg,Goods-cum Passengers,0
+2010,11001-16000kg,Articulated Vehicles,0
+2010,11001-16000kg,Cement Mixers,0
+2010,11001-16000kg,Tankers,117
+2010,11001-16000kg,Cranes,2
+2010,11001-16000kg,Recovery Vehicles,23
+2010,11001-16000kg,Refrigerated Vehicles,191
+2010,11001-16000kg,Others,297
+2010,16001-20000kg,Lorries,29
+2010,16001-20000kg,Tippers,1
+2010,16001-20000kg,Vans,10
+2010,16001-20000kg,Goods-cum Passengers,0
+2010,16001-20000kg,Articulated Vehicles,0
+2010,16001-20000kg,Cement Mixers,0
+2010,16001-20000kg,Tankers,3
+2010,16001-20000kg,Cranes,0
+2010,16001-20000kg,Recovery Vehicles,0
+2010,16001-20000kg,Refrigerated Vehicles,1
+2010,16001-20000kg,Others,17
+2010,20001-26000kg,Lorries,1151
+2010,20001-26000kg,Tippers,235
+2010,20001-26000kg,Vans,2
+2010,20001-26000kg,Goods-cum Passengers,0
+2010,20001-26000kg,Articulated Vehicles,1
+2010,20001-26000kg,Cement Mixers,405
+2010,20001-26000kg,Tankers,229
+2010,20001-26000kg,Cranes,42
+2010,20001-26000kg,Recovery Vehicles,30
+2010,20001-26000kg,Refrigerated Vehicles,5
+2010,20001-26000kg,Others,471
+2010,26001-32000kg,Lorries,975
+2010,26001-32000kg,Tippers,2714
+2010,26001-32000kg,Vans,0
+2010,26001-32000kg,Goods-cum Passengers,0
+2010,26001-32000kg,Articulated Vehicles,1
+2010,26001-32000kg,Cement Mixers,195
+2010,26001-32000kg,Tankers,136
+2010,26001-32000kg,Cranes,51
+2010,26001-32000kg,Recovery Vehicles,4
+2010,26001-32000kg,Refrigerated Vehicles,4
+2010,26001-32000kg,Others,455
+2010,32001-40000kg,Lorries,223
+2010,32001-40000kg,Tippers,3
+2010,32001-40000kg,Vans,0
+2010,32001-40000kg,Goods-cum Passengers,0
+2010,32001-40000kg,Articulated Vehicles,2
+2010,32001-40000kg,Cement Mixers,599
+2010,32001-40000kg,Tankers,61
+2010,32001-40000kg,Cranes,98
+2010,32001-40000kg,Recovery Vehicles,0
+2010,32001-40000kg,Refrigerated Vehicles,0
+2010,32001-40000kg,Others,69
+2010,40001-50000kg,Lorries,0
+2010,40001-50000kg,Tippers,0
+2010,40001-50000kg,Vans,0
+2010,40001-50000kg,Goods-cum Passengers,0
+2010,40001-50000kg,Articulated Vehicles,4034
+2010,40001-50000kg,Cement Mixers,0
+2010,40001-50000kg,Tankers,0
+2010,40001-50000kg,Cranes,129
+2010,40001-50000kg,Recovery Vehicles,7
+2010,40001-50000kg,Refrigerated Vehicles,0
+2010,40001-50000kg,Others,0
+2010,> 55000kg,Lorries,0
+2010,> 55000kg,Tippers,0
+2010,> 55000kg,Vans,0
+2010,> 55000kg,Goods-cum Passengers,0
+2010,> 55000kg,Articulated Vehicles,683
+2010,> 55000kg,Cement Mixers,0
+2010,> 55000kg,Tankers,0
+2010,> 55000kg,Cranes,97
+2010,> 55000kg,Recovery Vehicles,3
+2010,> 55000kg,Refrigerated Vehicles,0
+2010,> 55000kg,Others,0
+2011,<= 3500 kg,Lorries,32058
+2011,<= 3500 kg,Tippers,2
+2011,<= 3500 kg,Vans,60898
+2011,<= 3500 kg,Goods-cum Passengers,4378
+2011,<= 3500 kg,Articulated Vehicles,0
+2011,<= 3500 kg,Cement Mixers,0
+2011,<= 3500 kg,Tankers,9
+2011,<= 3500 kg,Cranes,0
+2011,<= 3500 kg,Recovery Vehicles,106
+2011,<= 3500 kg,Refrigerated Vehicles,1599
+2011,<= 3500 kg,Others,38
+2011,3501 - 7000kg,Lorries,15936
+2011,3501 - 7000kg,Tippers,313
+2011,3501 - 7000kg,Vans,5076
+2011,3501 - 7000kg,Goods-cum Passengers,24
+2011,3501 - 7000kg,Articulated Vehicles,0
+2011,3501 - 7000kg,Cement Mixers,0
+2011,3501 - 7000kg,Tankers,19
+2011,3501 - 7000kg,Cranes,0
+2011,3501 - 7000kg,Recovery Vehicles,117
+2011,3501 - 7000kg,Refrigerated Vehicles,1837
+2011,3501 - 7000kg,Others,55
+2011,7001 - 11000kg,Lorries,3415
+2011,7001 - 11000kg,Tippers,131
+2011,7001 - 11000kg,Vans,1813
+2011,7001 - 11000kg,Goods-cum Passengers,0
+2011,7001 - 11000kg,Articulated Vehicles,0
+2011,7001 - 11000kg,Cement Mixers,0
+2011,7001 - 11000kg,Tankers,77
+2011,7001 - 11000kg,Cranes,6
+2011,7001 - 11000kg,Recovery Vehicles,123
+2011,7001 - 11000kg,Refrigerated Vehicles,224
+2011,7001 - 11000kg,Others,33
+2011,11001-16000kg,Lorries,1974
+2011,11001-16000kg,Tippers,157
+2011,11001-16000kg,Vans,329
+2011,11001-16000kg,Goods-cum Passengers,0
+2011,11001-16000kg,Articulated Vehicles,0
+2011,11001-16000kg,Cement Mixers,0
+2011,11001-16000kg,Tankers,130
+2011,11001-16000kg,Cranes,2
+2011,11001-16000kg,Recovery Vehicles,24
+2011,11001-16000kg,Refrigerated Vehicles,208
+2011,11001-16000kg,Others,298
+2011,16001-20000kg,Lorries,37
+2011,16001-20000kg,Tippers,1
+2011,16001-20000kg,Vans,17
+2011,16001-20000kg,Goods-cum Passengers,0
+2011,16001-20000kg,Articulated Vehicles,0
+2011,16001-20000kg,Cement Mixers,0
+2011,16001-20000kg,Tankers,6
+2011,16001-20000kg,Cranes,0
+2011,16001-20000kg,Recovery Vehicles,0
+2011,16001-20000kg,Refrigerated Vehicles,7
+2011,16001-20000kg,Others,43
+2011,20001-26000kg,Lorries,1054
+2011,20001-26000kg,Tippers,209
+2011,20001-26000kg,Vans,2
+2011,20001-26000kg,Goods-cum Passengers,0
+2011,20001-26000kg,Articulated Vehicles,2
+2011,20001-26000kg,Cement Mixers,333
+2011,20001-26000kg,Tankers,195
+2011,20001-26000kg,Cranes,38
+2011,20001-26000kg,Recovery Vehicles,28
+2011,20001-26000kg,Refrigerated Vehicles,5
+2011,20001-26000kg,Others,447
+2011,26001-32000kg,Lorries,1086
+2011,26001-32000kg,Tippers,2981
+2011,26001-32000kg,Vans,0
+2011,26001-32000kg,Goods-cum Passengers,0
+2011,26001-32000kg,Articulated Vehicles,1
+2011,26001-32000kg,Cement Mixers,205
+2011,26001-32000kg,Tankers,157
+2011,26001-32000kg,Cranes,51
+2011,26001-32000kg,Recovery Vehicles,6
+2011,26001-32000kg,Refrigerated Vehicles,4
+2011,26001-32000kg,Others,551
+2011,32001-40000kg,Lorries,257
+2011,32001-40000kg,Tippers,3
+2011,32001-40000kg,Vans,0
+2011,32001-40000kg,Goods-cum Passengers,0
+2011,32001-40000kg,Articulated Vehicles,0
+2011,32001-40000kg,Cement Mixers,736
+2011,32001-40000kg,Tankers,66
+2011,32001-40000kg,Cranes,97
+2011,32001-40000kg,Recovery Vehicles,0
+2011,32001-40000kg,Refrigerated Vehicles,0
+2011,32001-40000kg,Others,79
+2011,40001-50000kg,Lorries,0
+2011,40001-50000kg,Tippers,0
+2011,40001-50000kg,Vans,0
+2011,40001-50000kg,Goods-cum Passengers,0
+2011,40001-50000kg,Articulated Vehicles,4021
+2011,40001-50000kg,Cement Mixers,0
+2011,40001-50000kg,Tankers,0
+2011,40001-50000kg,Cranes,120
+2011,40001-50000kg,Recovery Vehicles,6
+2011,40001-50000kg,Refrigerated Vehicles,0
+2011,40001-50000kg,Others,0
+2011,> 55000kg,Lorries,0
+2011,> 55000kg,Tippers,0
+2011,> 55000kg,Vans,0
+2011,> 55000kg,Goods-cum Passengers,0
+2011,> 55000kg,Articulated Vehicles,785
+2011,> 55000kg,Cement Mixers,0
+2011,> 55000kg,Tankers,0
+2011,> 55000kg,Cranes,111
+2011,> 55000kg,Recovery Vehicles,2
+2011,> 55000kg,Refrigerated Vehicles,0
+2011,> 55000kg,Others,0
+2012,<= 3500 kg,Lorries,32058
+2012,<= 3500 kg,Tippers,2
+2012,<= 3500 kg,Vans,60021
+2012,<= 3500 kg,Goods-cum Passengers,4123
+2012,<= 3500 kg,Articulated Vehicles,0
+2012,<= 3500 kg,Cement Mixers,0
+2012,<= 3500 kg,Tankers,9
+2012,<= 3500 kg,Cranes,0
+2012,<= 3500 kg,Recovery Vehicles,107
+2012,<= 3500 kg,Refrigerated Vehicles,1679
+2012,<= 3500 kg,Others,38
+2012,3501 - 7000kg,Lorries,15893
+2012,3501 - 7000kg,Tippers,310
+2012,3501 - 7000kg,Vans,5074
+2012,3501 - 7000kg,Goods-cum Passengers,21
+2012,3501 - 7000kg,Articulated Vehicles,0
+2012,3501 - 7000kg,Cement Mixers,0
+2012,3501 - 7000kg,Tankers,19
+2012,3501 - 7000kg,Cranes,0
+2012,3501 - 7000kg,Recovery Vehicles,120
+2012,3501 - 7000kg,Refrigerated Vehicles,1914
+2012,3501 - 7000kg,Others,50
+2012,7001 - 11000kg,Lorries,3382
+2012,7001 - 11000kg,Tippers,132
+2012,7001 - 11000kg,Vans,1818
+2012,7001 - 11000kg,Goods-cum Passengers,0
+2012,7001 - 11000kg,Articulated Vehicles,0
+2012,7001 - 11000kg,Cement Mixers,0
+2012,7001 - 11000kg,Tankers,75
+2012,7001 - 11000kg,Cranes,6
+2012,7001 - 11000kg,Recovery Vehicles,121
+2012,7001 - 11000kg,Refrigerated Vehicles,236
+2012,7001 - 11000kg,Others,28
+2012,11001-16000kg,Lorries,1984
+2012,11001-16000kg,Tippers,151
+2012,11001-16000kg,Vans,328
+2012,11001-16000kg,Goods-cum Passengers,0
+2012,11001-16000kg,Articulated Vehicles,0
+2012,11001-16000kg,Cement Mixers,0
+2012,11001-16000kg,Tankers,142
+2012,11001-16000kg,Cranes,2
+2012,11001-16000kg,Recovery Vehicles,22
+2012,11001-16000kg,Refrigerated Vehicles,220
+2012,11001-16000kg,Others,286
+2012,16001-20000kg,Lorries,52
+2012,16001-20000kg,Tippers,1
+2012,16001-20000kg,Vans,21
+2012,16001-20000kg,Goods-cum Passengers,0
+2012,16001-20000kg,Articulated Vehicles,0
+2012,16001-20000kg,Cement Mixers,0
+2012,16001-20000kg,Tankers,12
+2012,16001-20000kg,Cranes,0
+2012,16001-20000kg,Recovery Vehicles,0
+2012,16001-20000kg,Refrigerated Vehicles,10
+2012,16001-20000kg,Others,54
+2012,20001-26000kg,Lorries,955
+2012,20001-26000kg,Tippers,192
+2012,20001-26000kg,Vans,2
+2012,20001-26000kg,Goods-cum Passengers,0
+2012,20001-26000kg,Articulated Vehicles,2
+2012,20001-26000kg,Cement Mixers,258
+2012,20001-26000kg,Tankers,172
+2012,20001-26000kg,Cranes,32
+2012,20001-26000kg,Recovery Vehicles,27
+2012,20001-26000kg,Refrigerated Vehicles,5
+2012,20001-26000kg,Others,405
+2012,26001-32000kg,Lorries,1192
+2012,26001-32000kg,Tippers,3480
+2012,26001-32000kg,Vans,0
+2012,26001-32000kg,Goods-cum Passengers,0
+2012,26001-32000kg,Articulated Vehicles,1
+2012,26001-32000kg,Cement Mixers,210
+2012,26001-32000kg,Tankers,187
+2012,26001-32000kg,Cranes,48
+2012,26001-32000kg,Recovery Vehicles,7
+2012,26001-32000kg,Refrigerated Vehicles,4
+2012,26001-32000kg,Others,630
+2012,32001-40000kg,Lorries,291
+2012,32001-40000kg,Tippers,3
+2012,32001-40000kg,Vans,0
+2012,32001-40000kg,Goods-cum Passengers,0
+2012,32001-40000kg,Articulated Vehicles,0
+2012,32001-40000kg,Cement Mixers,946
+2012,32001-40000kg,Tankers,84
+2012,32001-40000kg,Cranes,101
+2012,32001-40000kg,Recovery Vehicles,0
+2012,32001-40000kg,Refrigerated Vehicles,0
+2012,32001-40000kg,Others,94
+2012,40001-50000kg,Lorries,0
+2012,40001-50000kg,Tippers,0
+2012,40001-50000kg,Vans,0
+2012,40001-50000kg,Goods-cum Passengers,0
+2012,40001-50000kg,Articulated Vehicles,4036
+2012,40001-50000kg,Cement Mixers,0
+2012,40001-50000kg,Tankers,0
+2012,40001-50000kg,Cranes,114
+2012,40001-50000kg,Recovery Vehicles,6
+2012,40001-50000kg,Refrigerated Vehicles,0
+2012,40001-50000kg,Others,0
+2012,> 55000kg,Lorries,0
+2012,> 55000kg,Tippers,0
+2012,> 55000kg,Vans,0
+2012,> 55000kg,Goods-cum Passengers,0
+2012,> 55000kg,Articulated Vehicles,904
+2012,> 55000kg,Cement Mixers,0
+2012,> 55000kg,Tankers,0
+2012,> 55000kg,Cranes,136
+2012,> 55000kg,Recovery Vehicles,1
+2012,> 55000kg,Refrigerated Vehicles,0
+2012,> 55000kg,Others,0
+2013,<= 3500 kg,Lorries,32099
+2013,<= 3500 kg,Tippers,2
+2013,<= 3500 kg,Vans,58292
+2013,<= 3500 kg,Goods-cum Passengers,3145
+2013,<= 3500 kg,Articulated Vehicles,0
+2013,<= 3500 kg,Cement Mixers,0
+2013,<= 3500 kg,Tankers,10
+2013,<= 3500 kg,Cranes,0
+2013,<= 3500 kg,Recovery Vehicles,109
+2013,<= 3500 kg,Refrigerated Vehicles,1769
+2013,<= 3500 kg,Others,36
+2013,3501 - 7000kg,Lorries,16026
+2013,3501 - 7000kg,Tippers,307
+2013,3501 - 7000kg,Vans,5088
+2013,3501 - 7000kg,Goods-cum Passengers,21
+2013,3501 - 7000kg,Articulated Vehicles,0
+2013,3501 - 7000kg,Cement Mixers,0
+2013,3501 - 7000kg,Tankers,23
+2013,3501 - 7000kg,Cranes,0
+2013,3501 - 7000kg,Recovery Vehicles,126
+2013,3501 - 7000kg,Refrigerated Vehicles,1981
+2013,3501 - 7000kg,Others,53
+2013,7001 - 11000kg,Lorries,3397
+2013,7001 - 11000kg,Tippers,133
+2013,7001 - 11000kg,Vans,1821
+2013,7001 - 11000kg,Goods-cum Passengers,0
+2013,7001 - 11000kg,Articulated Vehicles,0
+2013,7001 - 11000kg,Cement Mixers,0
+2013,7001 - 11000kg,Tankers,78
+2013,7001 - 11000kg,Cranes,6
+2013,7001 - 11000kg,Recovery Vehicles,122
+2013,7001 - 11000kg,Refrigerated Vehicles,243
+2013,7001 - 11000kg,Others,30
+2013,11001-16000kg,Lorries,1961
+2013,11001-16000kg,Tippers,138
+2013,11001-16000kg,Vans,334
+2013,11001-16000kg,Goods-cum Passengers,0
+2013,11001-16000kg,Articulated Vehicles,0
+2013,11001-16000kg,Cement Mixers,0
+2013,11001-16000kg,Tankers,145
+2013,11001-16000kg,Cranes,2
+2013,11001-16000kg,Recovery Vehicles,24
+2013,11001-16000kg,Refrigerated Vehicles,235
+2013,11001-16000kg,Others,276
+2013,16001-20000kg,Lorries,74
+2013,16001-20000kg,Tippers,3
+2013,16001-20000kg,Vans,26
+2013,16001-20000kg,Goods-cum Passengers,0
+2013,16001-20000kg,Articulated Vehicles,0
+2013,16001-20000kg,Cement Mixers,0
+2013,16001-20000kg,Tankers,25
+2013,16001-20000kg,Cranes,0
+2013,16001-20000kg,Recovery Vehicles,0
+2013,16001-20000kg,Refrigerated Vehicles,16
+2013,16001-20000kg,Others,68
+2013,20001-26000kg,Lorries,853
+2013,20001-26000kg,Tippers,172
+2013,20001-26000kg,Vans,1
+2013,20001-26000kg,Goods-cum Passengers,0
+2013,20001-26000kg,Articulated Vehicles,2
+2013,20001-26000kg,Cement Mixers,201
+2013,20001-26000kg,Tankers,151
+2013,20001-26000kg,Cranes,27
+2013,20001-26000kg,Recovery Vehicles,26
+2013,20001-26000kg,Refrigerated Vehicles,5
+2013,20001-26000kg,Others,361
+2013,26001-32000kg,Lorries,1388
+2013,26001-32000kg,Tippers,4032
+2013,26001-32000kg,Vans,0
+2013,26001-32000kg,Goods-cum Passengers,0
+2013,26001-32000kg,Articulated Vehicles,2
+2013,26001-32000kg,Cement Mixers,188
+2013,26001-32000kg,Tankers,211
+2013,26001-32000kg,Cranes,47
+2013,26001-32000kg,Recovery Vehicles,9
+2013,26001-32000kg,Refrigerated Vehicles,5
+2013,26001-32000kg,Others,778
+2013,32001-40000kg,Lorries,379
+2013,32001-40000kg,Tippers,76
+2013,32001-40000kg,Vans,0
+2013,32001-40000kg,Goods-cum Passengers,0
+2013,32001-40000kg,Articulated Vehicles,0
+2013,32001-40000kg,Cement Mixers,1156
+2013,32001-40000kg,Tankers,90
+2013,32001-40000kg,Cranes,105
+2013,32001-40000kg,Recovery Vehicles,0
+2013,32001-40000kg,Refrigerated Vehicles,0
+2013,32001-40000kg,Others,113
+2013,40001-50000kg,Lorries,1
+2013,40001-50000kg,Tippers,0
+2013,40001-50000kg,Vans,0
+2013,40001-50000kg,Goods-cum Passengers,0
+2013,40001-50000kg,Articulated Vehicles,4049
+2013,40001-50000kg,Cement Mixers,0
+2013,40001-50000kg,Tankers,0
+2013,40001-50000kg,Cranes,125
+2013,40001-50000kg,Recovery Vehicles,5
+2013,40001-50000kg,Refrigerated Vehicles,0
+2013,40001-50000kg,Others,0
+2013,> 55000kg,Lorries,0
+2013,> 55000kg,Tippers,0
+2013,> 55000kg,Vans,0
+2013,> 55000kg,Goods-cum Passengers,0
+2013,> 55000kg,Articulated Vehicles,1207
+2013,> 55000kg,Cement Mixers,0
+2013,> 55000kg,Tankers,0
+2013,> 55000kg,Cranes,192
+2013,> 55000kg,Recovery Vehicles,1
+2013,> 55000kg,Refrigerated Vehicles,0
+2013,> 55000kg,Others,0
+2014,<= 3500 kg,Lorries,32757
+2014,<= 3500 kg,Tippers,4
+2014,<= 3500 kg,Vans,57928
+2014,<= 3500 kg,Goods-cum Passengers,2850
+2014,<= 3500 kg,Articulated Vehicles,0
+2014,<= 3500 kg,Cement Mixers,0
+2014,<= 3500 kg,Tankers,9
+2014,<= 3500 kg,Cranes,0
+2014,<= 3500 kg,Recovery Vehicles,104
+2014,<= 3500 kg,Refrigerated Vehicles,1896
+2014,<= 3500 kg,Others,33
+2014,3501 - 7000kg,Lorries,15728
+2014,3501 - 7000kg,Tippers,282
+2014,3501 - 7000kg,Vans,5052
+2014,3501 - 7000kg,Goods-cum Passengers,18
+2014,3501 - 7000kg,Articulated Vehicles,0
+2014,3501 - 7000kg,Cement Mixers,0
+2014,3501 - 7000kg,Tankers,25
+2014,3501 - 7000kg,Cranes,0
+2014,3501 - 7000kg,Recovery Vehicles,126
+2014,3501 - 7000kg,Refrigerated Vehicles,2077
+2014,3501 - 7000kg,Others,56
+2014,7001 - 11000kg,Lorries,3276
+2014,7001 - 11000kg,Tippers,128
+2014,7001 - 11000kg,Vans,1787
+2014,7001 - 11000kg,Goods-cum Passengers,0
+2014,7001 - 11000kg,Articulated Vehicles,0
+2014,7001 - 11000kg,Cement Mixers,0
+2014,7001 - 11000kg,Tankers,79
+2014,7001 - 11000kg,Cranes,6
+2014,7001 - 11000kg,Recovery Vehicles,123
+2014,7001 - 11000kg,Refrigerated Vehicles,261
+2014,7001 - 11000kg,Others,29
+2014,11001-16000kg,Lorries,2005
+2014,11001-16000kg,Tippers,120
+2014,11001-16000kg,Vans,353
+2014,11001-16000kg,Goods-cum Passengers,0
+2014,11001-16000kg,Articulated Vehicles,0
+2014,11001-16000kg,Cement Mixers,0
+2014,11001-16000kg,Tankers,148
+2014,11001-16000kg,Cranes,3
+2014,11001-16000kg,Recovery Vehicles,25
+2014,11001-16000kg,Refrigerated Vehicles,235
+2014,11001-16000kg,Others,272
+2014,16001-20000kg,Lorries,85
+2014,16001-20000kg,Tippers,2
+2014,16001-20000kg,Vans,28
+2014,16001-20000kg,Goods-cum Passengers,0
+2014,16001-20000kg,Articulated Vehicles,0
+2014,16001-20000kg,Cement Mixers,0
+2014,16001-20000kg,Tankers,30
+2014,16001-20000kg,Cranes,0
+2014,16001-20000kg,Recovery Vehicles,0
+2014,16001-20000kg,Refrigerated Vehicles,29
+2014,16001-20000kg,Others,80
+2014,20001-26000kg,Lorries,717
+2014,20001-26000kg,Tippers,131
+2014,20001-26000kg,Vans,1
+2014,20001-26000kg,Goods-cum Passengers,0
+2014,20001-26000kg,Articulated Vehicles,1
+2014,20001-26000kg,Cement Mixers,137
+2014,20001-26000kg,Tankers,109
+2014,20001-26000kg,Cranes,26
+2014,20001-26000kg,Recovery Vehicles,25
+2014,20001-26000kg,Refrigerated Vehicles,4
+2014,20001-26000kg,Others,246
+2014,26001-32000kg,Lorries,1541
+2014,26001-32000kg,Tippers,4199
+2014,26001-32000kg,Vans,1
+2014,26001-32000kg,Goods-cum Passengers,0
+2014,26001-32000kg,Articulated Vehicles,1
+2014,26001-32000kg,Cement Mixers,156
+2014,26001-32000kg,Tankers,229
+2014,26001-32000kg,Cranes,44
+2014,26001-32000kg,Recovery Vehicles,11
+2014,26001-32000kg,Refrigerated Vehicles,5
+2014,26001-32000kg,Others,926
+2014,32001-40000kg,Lorries,461
+2014,32001-40000kg,Tippers,103
+2014,32001-40000kg,Vans,0
+2014,32001-40000kg,Goods-cum Passengers,0
+2014,32001-40000kg,Articulated Vehicles,0
+2014,32001-40000kg,Cement Mixers,1271
+2014,32001-40000kg,Tankers,105
+2014,32001-40000kg,Cranes,98
+2014,32001-40000kg,Recovery Vehicles,0
+2014,32001-40000kg,Refrigerated Vehicles,0
+2014,32001-40000kg,Others,141
+2014,40001-50000kg,Lorries,1
+2014,40001-50000kg,Tippers,0
+2014,40001-50000kg,Vans,0
+2014,40001-50000kg,Goods-cum Passengers,0
+2014,40001-50000kg,Articulated Vehicles,3932
+2014,40001-50000kg,Cement Mixers,0
+2014,40001-50000kg,Tankers,0
+2014,40001-50000kg,Cranes,119
+2014,40001-50000kg,Recovery Vehicles,5
+2014,40001-50000kg,Refrigerated Vehicles,0
+2014,40001-50000kg,Others,0
+2014,> 55000kg,Lorries,0
+2014,> 55000kg,Tippers,0
+2014,> 55000kg,Vans,0
+2014,> 55000kg,Goods-cum Passengers,0
+2014,> 55000kg,Articulated Vehicles,1494
+2014,> 55000kg,Cement Mixers,0
+2014,> 55000kg,Tankers,0
+2014,> 55000kg,Cranes,217
+2014,> 55000kg,Recovery Vehicles,1
+2014,> 55000kg,Refrigerated Vehicles,0
+2014,> 55000kg,Others,0
+2015,<= 3500 kg,Lorries,33623
+2015,<= 3500 kg,Tippers,5
+2015,<= 3500 kg,Vans,58283
+2015,<= 3500 kg,Goods-cum Passengers,2983
+2015,<= 3500 kg,Articulated Vehicles,0
+2015,<= 3500 kg,Cement Mixers,0
+2015,<= 3500 kg,Tankers,13
+2015,<= 3500 kg,Cranes,0
+2015,<= 3500 kg,Recovery Vehicles,105
+2015,<= 3500 kg,Refrigerated Vehicles,1983
+2015,<= 3500 kg,Garbage/ Sanitary Wagon,0
+2015,<= 3500 kg,Others,4
+2015,3501 - 7000kg,Lorries,14034
+2015,3501 - 7000kg,Tippers,240
+2015,3501 - 7000kg,Vans,4865
+2015,3501 - 7000kg,Goods-cum Passengers,14
+2015,3501 - 7000kg,Articulated Vehicles,0
+2015,3501 - 7000kg,Cement Mixers,0
+2015,3501 - 7000kg,Tankers,30
+2015,3501 - 7000kg,Cranes,0
+2015,3501 - 7000kg,Recovery Vehicles,137
+2015,3501 - 7000kg,Refrigerated Vehicles,2091
+2015,3501 - 7000kg,Garbage/ Sanitary Wagon,6
+2015,3501 - 7000kg,Others,4
+2015,7001 - 11000kg,Lorries,3090
+2015,7001 - 11000kg,Tippers,113
+2015,7001 - 11000kg,Vans,1727
+2015,7001 - 11000kg,Goods-cum Passengers,0
+2015,7001 - 11000kg,Articulated Vehicles,0
+2015,7001 - 11000kg,Cement Mixers,0
+2015,7001 - 11000kg,Tankers,78
+2015,7001 - 11000kg,Cranes,5
+2015,7001 - 11000kg,Recovery Vehicles,129
+2015,7001 - 11000kg,Refrigerated Vehicles,250
+2015,7001 - 11000kg,Garbage/ Sanitary Wagon,22
+2015,7001 - 11000kg,Others,1
+2015,11001-16000kg,Lorries,2092
+2015,11001-16000kg,Tippers,107
+2015,11001-16000kg,Vans,453
+2015,11001-16000kg,Goods-cum Passengers,0
+2015,11001-16000kg,Articulated Vehicles,0
+2015,11001-16000kg,Cement Mixers,0
+2015,11001-16000kg,Tankers,154
+2015,11001-16000kg,Cranes,3
+2015,11001-16000kg,Recovery Vehicles,25
+2015,11001-16000kg,Refrigerated Vehicles,250
+2015,11001-16000kg,Garbage/ Sanitary Wagon,234
+2015,11001-16000kg,Others,15
+2015,16001-20000kg,Lorries,107
+2015,16001-20000kg,Tippers,2
+2015,16001-20000kg,Vans,31
+2015,16001-20000kg,Goods-cum Passengers,0
+2015,16001-20000kg,Articulated Vehicles,0
+2015,16001-20000kg,Cement Mixers,0
+2015,16001-20000kg,Tankers,33
+2015,16001-20000kg,Cranes,0
+2015,16001-20000kg,Recovery Vehicles,1
+2015,16001-20000kg,Refrigerated Vehicles,31
+2015,16001-20000kg,Garbage/ Sanitary Wagon,85
+2015,16001-20000kg,Others,5
+2015,20001-26000kg,Lorries,550
+2015,20001-26000kg,Tippers,79
+2015,20001-26000kg,Vans,1
+2015,20001-26000kg,Goods-cum Passengers,0
+2015,20001-26000kg,Articulated Vehicles,1
+2015,20001-26000kg,Cement Mixers,96
+2015,20001-26000kg,Tankers,88
+2015,20001-26000kg,Cranes,23
+2015,20001-26000kg,Recovery Vehicles,23
+2015,20001-26000kg,Refrigerated Vehicles,3
+2015,20001-26000kg,Garbage/ Sanitary Wagon,178
+2015,20001-26000kg,Others,2
+2015,26001-32000kg,Lorries,1697
+2015,26001-32000kg,Tippers,4079
+2015,26001-32000kg,Vans,7
+2015,26001-32000kg,Goods-cum Passengers,0
+2015,26001-32000kg,Articulated Vehicles,1
+2015,26001-32000kg,Cement Mixers,141
+2015,26001-32000kg,Tankers,258
+2015,26001-32000kg,Cranes,38
+2015,26001-32000kg,Recovery Vehicles,17
+2015,26001-32000kg,Refrigerated Vehicles,5
+2015,26001-32000kg,Garbage/ Sanitary Wagon,986
+2015,26001-32000kg,Others,6
+2015,32001-40000kg,Lorries,535
+2015,32001-40000kg,Tippers,113
+2015,32001-40000kg,Vans,0
+2015,32001-40000kg,Goods-cum Passengers,0
+2015,32001-40000kg,Articulated Vehicles,0
+2015,32001-40000kg,Cement Mixers,1379
+2015,32001-40000kg,Tankers,127
+2015,32001-40000kg,Cranes,89
+2015,32001-40000kg,Recovery Vehicles,0
+2015,32001-40000kg,Refrigerated Vehicles,0
+2015,32001-40000kg,Garbage/ Sanitary Wagon,148
+2015,32001-40000kg,Others,11
+2015,40001-55000kg,Lorries,2
+2015,40001-55000kg,Tippers,0
+2015,40001-55000kg,Vans,0
+2015,40001-55000kg,Goods-cum Passengers,0
+2015,40001-55000kg,Articulated Vehicles,3826
+2015,40001-55000kg,Cement Mixers,0
+2015,40001-55000kg,Tankers,0
+2015,40001-55000kg,Cranes,113
+2015,40001-55000kg,Recovery Vehicles,5
+2015,40001-55000kg,Refrigerated Vehicles,0
+2015,40001-55000kg,Garbage/ Sanitary Wagon,0
+2015,40001-55000kg,Others,0
+2015,> 55000kg,Lorries,0
+2015,> 55000kg,Tippers,0
+2015,> 55000kg,Vans,0
+2015,> 55000kg,Goods-cum Passengers,0
+2015,> 55000kg,Articulated Vehicles,1642
+2015,> 55000kg,Cement Mixers,0
+2015,> 55000kg,Tankers,0
+2015,> 55000kg,Cranes,239
+2015,> 55000kg,Recovery Vehicles,1
+2015,> 55000kg,Refrigerated Vehicles,0
+2015,> 55000kg,Garbage/ Sanitary Wagon,0
+2015,> 55000kg,Others,0
+2016,<= 3500 kg,Lorries,34309
+2016,<= 3500 kg,Tippers,5
+2016,<= 3500 kg,Vans,59213
+2016,<= 3500 kg,Goods-cum Passengers,2978
+2016,<= 3500 kg,Articulated Vehicles,0
+2016,<= 3500 kg,Cement Mixers,0
+2016,<= 3500 kg,Tankers,17
+2016,<= 3500 kg,Cranes,0
+2016,<= 3500 kg,Recovery Vehicles,111
+2016,<= 3500 kg,Refrigerated Vehicles,2091
+2016,<= 3500 kg,Garbage/ Sanitary Wagon,0
+2016,<= 3500 kg,Others,4
+2016,3501 - 7000kg,Lorries,12833
+2016,3501 - 7000kg,Tippers,229
+2016,3501 - 7000kg,Vans,4728
+2016,3501 - 7000kg,Goods-cum Passengers,14
+2016,3501 - 7000kg,Articulated Vehicles,0
+2016,3501 - 7000kg,Cement Mixers,0
+2016,3501 - 7000kg,Tankers,30
+2016,3501 - 7000kg,Cranes,0
+2016,3501 - 7000kg,Recovery Vehicles,142
+2016,3501 - 7000kg,Refrigerated Vehicles,2188
+2016,3501 - 7000kg,Garbage/ Sanitary Wagon,7
+2016,3501 - 7000kg,Others,0
+2016,7001 - 11000kg,Lorries,2847
+2016,7001 - 11000kg,Tippers,123
+2016,7001 - 11000kg,Vans,1549
+2016,7001 - 11000kg,Goods-cum Passengers,0
+2016,7001 - 11000kg,Articulated Vehicles,0
+2016,7001 - 11000kg,Cement Mixers,0
+2016,7001 - 11000kg,Tankers,73
+2016,7001 - 11000kg,Cranes,5
+2016,7001 - 11000kg,Recovery Vehicles,137
+2016,7001 - 11000kg,Refrigerated Vehicles,235
+2016,7001 - 11000kg,Garbage/ Sanitary Wagon,21
+2016,7001 - 11000kg,Others,2
+2016,11001-16000kg,Lorries,2221
+2016,11001-16000kg,Tippers,104
+2016,11001-16000kg,Vans,649
+2016,11001-16000kg,Goods-cum Passengers,0
+2016,11001-16000kg,Articulated Vehicles,0
+2016,11001-16000kg,Cement Mixers,0
+2016,11001-16000kg,Tankers,159
+2016,11001-16000kg,Cranes,2
+2016,11001-16000kg,Recovery Vehicles,22
+2016,11001-16000kg,Refrigerated Vehicles,282
+2016,11001-16000kg,Garbage/ Sanitary Wagon,218
+2016,11001-16000kg,Others,11
+2016,16001-20000kg,Lorries,126
+2016,16001-20000kg,Tippers,2
+2016,16001-20000kg,Vans,36
+2016,16001-20000kg,Goods-cum Passengers,0
+2016,16001-20000kg,Articulated Vehicles,0
+2016,16001-20000kg,Cement Mixers,0
+2016,16001-20000kg,Tankers,38
+2016,16001-20000kg,Cranes,0
+2016,16001-20000kg,Recovery Vehicles,1
+2016,16001-20000kg,Refrigerated Vehicles,46
+2016,16001-20000kg,Garbage/ Sanitary Wagon,97
+2016,16001-20000kg,Others,5
+2016,20001-26000kg,Lorries,358
+2016,20001-26000kg,Tippers,42
+2016,20001-26000kg,Vans,0
+2016,20001-26000kg,Goods-cum Passengers,0
+2016,20001-26000kg,Articulated Vehicles,1
+2016,20001-26000kg,Cement Mixers,38
+2016,20001-26000kg,Tankers,61
+2016,20001-26000kg,Cranes,18
+2016,20001-26000kg,Recovery Vehicles,23
+2016,20001-26000kg,Refrigerated Vehicles,3
+2016,20001-26000kg,Garbage/ Sanitary Wagon,115
+2016,20001-26000kg,Others,2
+2016,26001-32000kg,Lorries,1801
+2016,26001-32000kg,Tippers,3953
+2016,26001-32000kg,Vans,8
+2016,26001-32000kg,Goods-cum Passengers,0
+2016,26001-32000kg,Articulated Vehicles,1
+2016,26001-32000kg,Cement Mixers,101
+2016,26001-32000kg,Tankers,276
+2016,26001-32000kg,Cranes,30
+2016,26001-32000kg,Recovery Vehicles,17
+2016,26001-32000kg,Refrigerated Vehicles,8
+2016,26001-32000kg,Garbage/ Sanitary Wagon,1050
+2016,26001-32000kg,Others,6
+2016,32001-40000kg,Lorries,608
+2016,32001-40000kg,Tippers,114
+2016,32001-40000kg,Vans,0
+2016,32001-40000kg,Goods-cum Passengers,0
+2016,32001-40000kg,Articulated Vehicles,0
+2016,32001-40000kg,Cement Mixers,1372
+2016,32001-40000kg,Tankers,143
+2016,32001-40000kg,Cranes,85
+2016,32001-40000kg,Recovery Vehicles,0
+2016,32001-40000kg,Refrigerated Vehicles,0
+2016,32001-40000kg,Garbage/ Sanitary Wagon,160
+2016,32001-40000kg,Others,11
+2016,40001-55000kg,Lorries,4
+2016,40001-55000kg,Tippers,1
+2016,40001-55000kg,Vans,0
+2016,40001-55000kg,Goods-cum Passengers,0
+2016,40001-55000kg,Articulated Vehicles,3563
+2016,40001-55000kg,Cement Mixers,0
+2016,40001-55000kg,Tankers,0
+2016,40001-55000kg,Cranes,98
+2016,40001-55000kg,Recovery Vehicles,6
+2016,40001-55000kg,Refrigerated Vehicles,0
+2016,40001-55000kg,Garbage/ Sanitary Wagon,0
+2016,40001-55000kg,Others,0
+2016,> 55000kg,Lorries,0
+2016,> 55000kg,Tippers,0
+2016,> 55000kg,Vans,0
+2016,> 55000kg,Goods-cum Passengers,0
+2016,> 55000kg,Articulated Vehicles,1736
+2016,> 55000kg,Cement Mixers,0
+2016,> 55000kg,Tankers,0
+2016,> 55000kg,Cranes,242
+2016,> 55000kg,Recovery Vehicles,1
+2016,> 55000kg,Refrigerated Vehicles,0
+2016,> 55000kg,Garbage/ Sanitary Wagon,0
+2016,> 55000kg,Others,0
+2017,<= 3500 kg,Lorries,34344
+2017,<= 3500 kg,Tippers,5
+2017,<= 3500 kg,Vans,58045
+2017,<= 3500 kg,Goods-cum Passengers,2962
+2017,<= 3500 kg,Prime Mover,3
+2017,<= 3500 kg,Cement Mixers,0
+2017,<= 3500 kg,Tankers,17
+2017,<= 3500 kg,Cranes,0
+2017,<= 3500 kg,Recovery Vehicles,112
+2017,<= 3500 kg,Refrigerated Vehicles,2194
+2017,<= 3500 kg,Garbage/ Sanitary Wagon,0
+2017,<= 3500 kg,Others,4
+2017,3501 - 7000kg,Lorries,12258
+2017,3501 - 7000kg,Tippers,213
+2017,3501 - 7000kg,Vans,4833
+2017,3501 - 7000kg,Goods-cum Passengers,10
+2017,3501 - 7000kg,Prime Mover,0
+2017,3501 - 7000kg,Cement Mixers,0
+2017,3501 - 7000kg,Tankers,30
+2017,3501 - 7000kg,Cranes,0
+2017,3501 - 7000kg,Recovery Vehicles,154
+2017,3501 - 7000kg,Refrigerated Vehicles,2332
+2017,3501 - 7000kg,Garbage/ Sanitary Wagon,5
+2017,3501 - 7000kg,Others,0
+2017,7001 - 11000kg,Lorries,2734
+2017,7001 - 11000kg,Tippers,124
+2017,7001 - 11000kg,Vans,1504
+2017,7001 - 11000kg,Goods-cum Passengers,0
+2017,7001 - 11000kg,Prime Mover,0
+2017,7001 - 11000kg,Cement Mixers,0
+2017,7001 - 11000kg,Tankers,68
+2017,7001 - 11000kg,Cranes,3
+2017,7001 - 11000kg,Recovery Vehicles,155
+2017,7001 - 11000kg,Refrigerated Vehicles,223
+2017,7001 - 11000kg,Garbage/ Sanitary Wagon,22
+2017,7001 - 11000kg,Others,3
+2017,11001-16000kg,Lorries,2348
+2017,11001-16000kg,Tippers,107
+2017,11001-16000kg,Vans,794
+2017,11001-16000kg,Goods-cum Passengers,0
+2017,11001-16000kg,Prime Mover,0
+2017,11001-16000kg,Cement Mixers,0
+2017,11001-16000kg,Tankers,163
+2017,11001-16000kg,Cranes,2
+2017,11001-16000kg,Recovery Vehicles,22
+2017,11001-16000kg,Refrigerated Vehicles,316
+2017,11001-16000kg,Garbage/ Sanitary Wagon,220
+2017,11001-16000kg,Others,8
+2017,16001-20000kg,Lorries,134
+2017,16001-20000kg,Tippers,2
+2017,16001-20000kg,Vans,43
+2017,16001-20000kg,Goods-cum Passengers,0
+2017,16001-20000kg,Prime Mover,0
+2017,16001-20000kg,Cement Mixers,0
+2017,16001-20000kg,Tankers,41
+2017,16001-20000kg,Cranes,0
+2017,16001-20000kg,Recovery Vehicles,1
+2017,16001-20000kg,Refrigerated Vehicles,54
+2017,16001-20000kg,Garbage/ Sanitary Wagon,103
+2017,16001-20000kg,Others,4
+2017,20001-26000kg,Lorries,218
+2017,20001-26000kg,Tippers,23
+2017,20001-26000kg,Vans,0
+2017,20001-26000kg,Goods-cum Passengers,0
+2017,20001-26000kg,Prime Mover,1
+2017,20001-26000kg,Cement Mixers,11
+2017,20001-26000kg,Tankers,38
+2017,20001-26000kg,Cranes,12
+2017,20001-26000kg,Recovery Vehicles,24
+2017,20001-26000kg,Refrigerated Vehicles,1
+2017,20001-26000kg,Garbage/ Sanitary Wagon,81
+2017,20001-26000kg,Others,2
+2017,26001-32000kg,Lorries,1850
+2017,26001-32000kg,Tippers,3969
+2017,26001-32000kg,Vans,9
+2017,26001-32000kg,Goods-cum Passengers,0
+2017,26001-32000kg,Prime Mover,2
+2017,26001-32000kg,Cement Mixers,97
+2017,26001-32000kg,Tankers,294
+2017,26001-32000kg,Cranes,21
+2017,26001-32000kg,Recovery Vehicles,20
+2017,26001-32000kg,Refrigerated Vehicles,11
+2017,26001-32000kg,Garbage/ Sanitary Wagon,1105
+2017,26001-32000kg,Others,2
+2017,32001-40000kg,Lorries,697
+2017,32001-40000kg,Tippers,118
+2017,32001-40000kg,Vans,0
+2017,32001-40000kg,Goods-cum Passengers,0
+2017,32001-40000kg,Prime Mover,0
+2017,32001-40000kg,Cement Mixers,1274
+2017,32001-40000kg,Tankers,161
+2017,32001-40000kg,Cranes,77
+2017,32001-40000kg,Recovery Vehicles,0
+2017,32001-40000kg,Refrigerated Vehicles,0
+2017,32001-40000kg,Garbage/ Sanitary Wagon,184
+2017,32001-40000kg,Others,10
+2017,40001-55000kg,Lorries,12
+2017,40001-55000kg,Tippers,1
+2017,40001-55000kg,Vans,0
+2017,40001-55000kg,Goods-cum Passengers,0
+2017,40001-55000kg,Prime Mover,3535
+2017,40001-55000kg,Cement Mixers,0
+2017,40001-55000kg,Tankers,0
+2017,40001-55000kg,Cranes,79
+2017,40001-55000kg,Recovery Vehicles,6
+2017,40001-55000kg,Refrigerated Vehicles,0
+2017,40001-55000kg,Garbage/ Sanitary Wagon,0
+2017,40001-55000kg,Others,0
+2017,> 55000kg,Lorries,0
+2017,> 55000kg,Tippers,0
+2017,> 55000kg,Vans,0
+2017,> 55000kg,Goods-cum Passengers,0
+2017,> 55000kg,Prime Mover,1949
+2017,> 55000kg,Cement Mixers,0
+2017,> 55000kg,Tankers,0
+2017,> 55000kg,Cranes,243
+2017,> 55000kg,Recovery Vehicles,1
+2017,> 55000kg,Refrigerated Vehicles,0
+2017,> 55000kg,Garbage/ Sanitary Wagon,0
+2017,> 55000kg,Others,0
+2018,<= 3500 kg,Lorries,33523
+2018,<= 3500 kg,Tippers,6
+2018,<= 3500 kg,Vans,58037
+2018,<= 3500 kg,Goods-cum Passengers,2947
+2018,<= 3500 kg,Prime Mover,3
+2018,<= 3500 kg,Cement Mixers,
+2018,<= 3500 kg,Tankers,16
+2018,<= 3500 kg,Cranes,
+2018,<= 3500 kg,Recovery Vehicles,112
+2018,<= 3500 kg,Refrigerated Vehicles,2314
+2018,<= 3500 kg,Garbage/ Sanitary Wagon,
+2018,<= 3500 kg,Others,6
+2018,3501 - 7000kg,Lorries,11603
+2018,3501 - 7000kg,Tippers,212
+2018,3501 - 7000kg,Vans,4936
+2018,3501 - 7000kg,Goods-cum Passengers,4
+2018,3501 - 7000kg,Prime Mover,
+2018,3501 - 7000kg,Cement Mixers,
+2018,3501 - 7000kg,Tankers,34
+2018,3501 - 7000kg,Cranes,
+2018,3501 - 7000kg,Recovery Vehicles,155
+2018,3501 - 7000kg,Refrigerated Vehicles,2379
+2018,3501 - 7000kg,Garbage/ Sanitary Wagon,4
+2018,3501 - 7000kg,Others,
+2018,7001 - 11000kg,Lorries,2643
+2018,7001 - 11000kg,Tippers,126
+2018,7001 - 11000kg,Vans,1513
+2018,7001 - 11000kg,Goods-cum Passengers,
+2018,7001 - 11000kg,Prime Mover,
+2018,7001 - 11000kg,Cement Mixers,
+2018,7001 - 11000kg,Tankers,62
+2018,7001 - 11000kg,Cranes,3
+2018,7001 - 11000kg,Recovery Vehicles,152
+2018,7001 - 11000kg,Refrigerated Vehicles,227
+2018,7001 - 11000kg,Garbage/ Sanitary Wagon,21
+2018,7001 - 11000kg,Others,4
+2018,11001-16000kg,Lorries,2292
+2018,11001-16000kg,Tippers,100
+2018,11001-16000kg,Vans,871
+2018,11001-16000kg,Goods-cum Passengers,
+2018,11001-16000kg,Prime Mover,
+2018,11001-16000kg,Cement Mixers,
+2018,11001-16000kg,Tankers,166
+2018,11001-16000kg,Cranes,2
+2018,11001-16000kg,Recovery Vehicles,20
+2018,11001-16000kg,Refrigerated Vehicles,330
+2018,11001-16000kg,Garbage/ Sanitary Wagon,200
+2018,11001-16000kg,Others,8
+2018,16001-20000kg,Lorries,145
+2018,16001-20000kg,Tippers,2
+2018,16001-20000kg,Vans,47
+2018,16001-20000kg,Goods-cum Passengers,
+2018,16001-20000kg,Prime Mover,
+2018,16001-20000kg,Cement Mixers,
+2018,16001-20000kg,Tankers,41
+2018,16001-20000kg,Cranes,
+2018,16001-20000kg,Recovery Vehicles,1
+2018,16001-20000kg,Refrigerated Vehicles,56
+2018,16001-20000kg,Garbage/ Sanitary Wagon,112
+2018,16001-20000kg,Others,4
+2018,20001-26000kg,Lorries,161
+2018,20001-26000kg,Tippers,16
+2018,20001-26000kg,Vans,
+2018,20001-26000kg,Goods-cum Passengers,
+2018,20001-26000kg,Prime Mover,1
+2018,20001-26000kg,Cement Mixers,2
+2018,20001-26000kg,Tankers,34
+2018,20001-26000kg,Cranes,11
+2018,20001-26000kg,Recovery Vehicles,24
+2018,20001-26000kg,Refrigerated Vehicles,1
+2018,20001-26000kg,Garbage/ Sanitary Wagon,62
+2018,20001-26000kg,Others,2
+2018,26001-32000kg,Lorries,1821
+2018,26001-32000kg,Tippers,4010
+2018,26001-32000kg,Vans,9
+2018,26001-32000kg,Goods-cum Passengers,
+2018,26001-32000kg,Prime Mover,2
+2018,26001-32000kg,Cement Mixers,83
+2018,26001-32000kg,Tankers,305
+2018,26001-32000kg,Cranes,17
+2018,26001-32000kg,Recovery Vehicles,21
+2018,26001-32000kg,Refrigerated Vehicles,11
+2018,26001-32000kg,Garbage/ Sanitary Wagon,1152
+2018,26001-32000kg,Others,3
+2018,32001-40000kg,Lorries,700
+2018,32001-40000kg,Tippers,114
+2018,32001-40000kg,Vans,
+2018,32001-40000kg,Goods-cum Passengers,
+2018,32001-40000kg,Prime Mover,
+2018,32001-40000kg,Cement Mixers,1227
+2018,32001-40000kg,Tankers,167
+2018,32001-40000kg,Cranes,72
+2018,32001-40000kg,Recovery Vehicles,
+2018,32001-40000kg,Refrigerated Vehicles,
+2018,32001-40000kg,Garbage/ Sanitary Wagon,198
+2018,32001-40000kg,Others,10
+2018,40001-55000kg,Lorries,12
+2018,40001-55000kg,Tippers,
+2018,40001-55000kg,Vans,
+2018,40001-55000kg,Goods-cum Passengers,
+2018,40001-55000kg,Prime Mover,3387
+2018,40001-55000kg,Cement Mixers,
+2018,40001-55000kg,Tankers,
+2018,40001-55000kg,Cranes,74
+2018,40001-55000kg,Recovery Vehicles,4
+2018,40001-55000kg,Refrigerated Vehicles,
+2018,40001-55000kg,Garbage/ Sanitary Wagon,
+2018,40001-55000kg,Others,1
+2018,> 55000kg,Lorries,
+2018,> 55000kg,Tippers,
+2018,> 55000kg,Vans,
+2018,> 55000kg,Goods-cum Passengers,
+2018,> 55000kg,Prime Mover,2023
+2018,> 55000kg,Cement Mixers,
+2018,> 55000kg,Tankers,
+2018,> 55000kg,Cranes,231
+2018,> 55000kg,Recovery Vehicles,1
+2018,> 55000kg,Refrigerated Vehicles,
+2018,> 55000kg,Garbage/ Sanitary Wagon,
+2018,> 55000kg,Others,
+2019,<= 3500 kg,Lorries,32823
+2019,<= 3500 kg,Tippers,6
+2019,<= 3500 kg,Vans,58450
+2019,<= 3500 kg,Goods-cum Passengers,2897
+2019,<= 3500 kg,Prime Mover,3
+2019,<= 3500 kg,Cement Mixers,
+2019,<= 3500 kg,Tankers,19
+2019,<= 3500 kg,Cranes,
+2019,<= 3500 kg,Recovery Vehicles,116
+2019,<= 3500 kg,Refrigerated Vehicles,2430
+2019,<= 3500 kg,Garbage/ Sanitary Wagon,
+2019,<= 3500 kg,Others,11
+2019,3501 - 7000kg,Lorries,11304
+2019,3501 - 7000kg,Tippers,222
+2019,3501 - 7000kg,Vans,4895
+2019,3501 - 7000kg,Goods-cum Passengers,3
+2019,3501 - 7000kg,Prime Mover,
+2019,3501 - 7000kg,Cement Mixers,
+2019,3501 - 7000kg,Tankers,33
+2019,3501 - 7000kg,Cranes,
+2019,3501 - 7000kg,Recovery Vehicles,157
+2019,3501 - 7000kg,Refrigerated Vehicles,2447
+2019,3501 - 7000kg,Garbage/ Sanitary Wagon,5
+2019,3501 - 7000kg,Others,10
+2019,7001 - 11000kg,Lorries,2562
+2019,7001 - 11000kg,Tippers,124
+2019,7001 - 11000kg,Vans,1404
+2019,7001 - 11000kg,Goods-cum Passengers,
+2019,7001 - 11000kg,Prime Mover,
+2019,7001 - 11000kg,Cement Mixers,
+2019,7001 - 11000kg,Tankers,59
+2019,7001 - 11000kg,Cranes,3
+2019,7001 - 11000kg,Recovery Vehicles,151
+2019,7001 - 11000kg,Refrigerated Vehicles,236
+2019,7001 - 11000kg,Garbage/ Sanitary Wagon,19
+2019,7001 - 11000kg,Others,4
+2019,11001-16000kg,Lorries,2314
+2019,11001-16000kg,Tippers,98
+2019,11001-16000kg,Vans,953
+2019,11001-16000kg,Goods-cum Passengers,
+2019,11001-16000kg,Prime Mover,
+2019,11001-16000kg,Cement Mixers,
+2019,11001-16000kg,Tankers,170
+2019,11001-16000kg,Cranes,2
+2019,11001-16000kg,Recovery Vehicles,17
+2019,11001-16000kg,Refrigerated Vehicles,335
+2019,11001-16000kg,Garbage/ Sanitary Wagon,182
+2019,11001-16000kg,Others,10
+2019,16001-20000kg,Lorries,171
+2019,16001-20000kg,Tippers,2
+2019,16001-20000kg,Vans,54
+2019,16001-20000kg,Goods-cum Passengers,
+2019,16001-20000kg,Prime Mover,
+2019,16001-20000kg,Cement Mixers,
+2019,16001-20000kg,Tankers,42
+2019,16001-20000kg,Cranes,
+2019,16001-20000kg,Recovery Vehicles,1
+2019,16001-20000kg,Refrigerated Vehicles,61
+2019,16001-20000kg,Garbage/ Sanitary Wagon,111
+2019,16001-20000kg,Others,4
+2019,20001-26000kg,Lorries,124
+2019,20001-26000kg,Tippers,9
+2019,20001-26000kg,Vans,
+2019,20001-26000kg,Goods-cum Passengers,
+2019,20001-26000kg,Prime Mover,1
+2019,20001-26000kg,Cement Mixers,2
+2019,20001-26000kg,Tankers,31
+2019,20001-26000kg,Cranes,9
+2019,20001-26000kg,Recovery Vehicles,24
+2019,20001-26000kg,Refrigerated Vehicles,1
+2019,20001-26000kg,Garbage/ Sanitary Wagon,44
+2019,20001-26000kg,Others,2
+2019,26001-32000kg,Lorries,1819
+2019,26001-32000kg,Tippers,4043
+2019,26001-32000kg,Vans,9
+2019,26001-32000kg,Goods-cum Passengers,
+2019,26001-32000kg,Prime Mover,2
+2019,26001-32000kg,Cement Mixers,77
+2019,26001-32000kg,Tankers,309
+2019,26001-32000kg,Cranes,16
+2019,26001-32000kg,Recovery Vehicles,23
+2019,26001-32000kg,Refrigerated Vehicles,11
+2019,26001-32000kg,Garbage/ Sanitary Wagon,1155
+2019,26001-32000kg,Others,5
+2019,32001-40000kg,Lorries,716
+2019,32001-40000kg,Tippers,110
+2019,32001-40000kg,Vans,1
+2019,32001-40000kg,Goods-cum Passengers,
+2019,32001-40000kg,Prime Mover,
+2019,32001-40000kg,Cement Mixers,1220
+2019,32001-40000kg,Tankers,169
+2019,32001-40000kg,Cranes,68
+2019,32001-40000kg,Recovery Vehicles,1
+2019,32001-40000kg,Refrigerated Vehicles,
+2019,32001-40000kg,Garbage/ Sanitary Wagon,207
+2019,32001-40000kg,Others,11
+2019,40001-55000kg,Lorries,11
+2019,40001-55000kg,Tippers,
+2019,40001-55000kg,Vans,
+2019,40001-55000kg,Goods-cum Passengers,
+2019,40001-55000kg,Prime Mover,3312
+2019,40001-55000kg,Cement Mixers,
+2019,40001-55000kg,Tankers,
+2019,40001-55000kg,Cranes,70
+2019,40001-55000kg,Recovery Vehicles,5
+2019,40001-55000kg,Refrigerated Vehicles,
+2019,40001-55000kg,Garbage/ Sanitary Wagon,
+2019,40001-55000kg,Others,1
+2019,> 55000kg,Lorries,
+2019,> 55000kg,Tippers,
+2019,> 55000kg,Vans,
+2019,> 55000kg,Goods-cum Passengers,
+2019,> 55000kg,Prime Mover,2189
+2019,> 55000kg,Cement Mixers,
+2019,> 55000kg,Tankers,
+2019,> 55000kg,Cranes,236
+2019,> 55000kg,Recovery Vehicles,1
+2019,> 55000kg,Refrigerated Vehicles,
+2019,> 55000kg,Garbage/ Sanitary Wagon,
+2019,> 55000kg,Others,

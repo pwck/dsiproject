@@ -1,0 +1,496 @@
+year,make,number
+2005,Aprilia,150
+2005,B.M.W.,34
+2005,Bajaj,130
+2005,Benelli,7
+2005,Daelim,219
+2005,Ducati,35
+2005,Harley Davidson,109
+2005,Honda,5405
+2005,Hyosung,91
+2005,K.T.M.,28
+2005,Kawasaki,295
+2005,Kymco,116
+2005,Lml,99
+2005,Others,19
+2005,P.G.O.,35
+2005,Piaggio,1027
+2005,Suzuki,639
+2005,Sym,589
+2005,Yamaha,3063
+2005,Zipstar,23
+2005,Zongshen,129
+2006,Aprilia,128
+2006,B.M.W.,44
+2006,Bajaj,563
+2006,Cagiva,5
+2006,Daelim,162
+2006,Ducati,49
+2006,Harley Davidson,143
+2006,Honda,3318
+2006,Husqvarna,17
+2006,Hyosung,38
+2006,K.T.M.,35
+2006,Kawasaki,150
+2006,Kymco,97
+2006,Lml,21
+2006,M.V. Agusta,13
+2006,Others,5
+2006,P.G.O.,37
+2006,Piaggio,994
+2006,Royal Enfield,16
+2006,Suzuki,810
+2006,Sym,310
+2006,Triumph,20
+2006,Yamaha,4547
+2006,Zongshen,6
+2007,Aprilia,82
+2007,B.M.W.,47
+2007,Bajaj,359
+2007,Benelli,5
+2007,Daelim,105
+2007,Ducati,99
+2007,Harley Davidson,158
+2007,Honda,3176
+2007,Husqvarna,10
+2007,K.T.M.,45
+2007,Kawasaki,118
+2007,Kymco,68
+2007,M.V. Agusta,7
+2007,Moto Guzzi,8
+2007,Others,8
+2007,P.G.O.,38
+2007,Piaggio,863
+2007,Royal Enfield,9
+2007,Suzuki,912
+2007,Sym,183
+2007,Triumph,22
+2007,Vespa,17
+2007,Yamaha,4102
+2008,Adiva,7
+2008,Aprilia,74
+2008,B.M.W.,67
+2008,Bajaj,491
+2008,Cpi,11
+2008,Daelim,152
+2008,Derbi,6
+2008,Ducati,101
+2008,Harley Davidson,135
+2008,Honda,2776
+2008,Husqvarna,25
+2008,K.T.M.,60
+2008,Kawasaki,112
+2008,Kymco,131
+2008,Moto Guzzi,5
+2008,Others,1
+2008,P.G.O.,38
+2008,Piaggio,719
+2008,Royal Enfield,13
+2008,Sachs,130
+2008,Suzuki,961
+2008,Sym,262
+2008,Triumph,37
+2008,Vespa,28
+2008,Yamaha,4066
+2009,Adiva,17
+2009,Aprilia,101
+2009,B.M.W.,59
+2009,Bajaj,374
+2009,Can-Am,5
+2009,Cpi,15
+2009,Daelim,172
+2009,Derbi,33
+2009,Ducati,88
+2009,Harley Davidson,115
+2009,Honda,2065
+2009,Husqvarna,34
+2009,K.T.M.,60
+2009,Kawasaki,65
+2009,Kymco,98
+2009,M.V. Agusta,6
+2009,Moto Guzzi,6
+2009,Others,11
+2009,P.G.O.,32
+2009,Piaggio,644
+2009,Royal Enfield,11
+2009,Sachs,29
+2009,Suzuki,541
+2009,Sym,347
+2009,Triumph,46
+2009,Vespa,31
+2009,Yamaha,3953
+2010,Adiva,13
+2010,Aprilia,142
+2010,B.M.W.,100
+2010,Bajaj,224
+2010,Can-Am,11
+2010,Daelim,154
+2010,Derbi,26
+2010,Ducati,144
+2010,Harley Davidson,152
+2010,Honda,1494
+2010,Husqvarna,17
+2010,K.T.M.,63
+2010,Kawasaki,81
+2010,Kymco,90
+2010,M.V. Agusta,22
+2010,Others,15
+2010,P.G.O.,23
+2010,Piaggio,686
+2010,Rieju,27
+2010,Royal Enfield,5
+2010,Sachs,16
+2010,Suzuki,356
+2010,Sym,414
+2010,Triumph,45
+2010,TVS,75
+2010,Vespa,20
+2010,Yamaha,3834
+2010,Zongshen,67
+2011,Adiva,22
+2011,Aprilia,178
+2011,B.M.W.,148
+2011,Bajaj,108
+2011,Can-Am,8
+2011,Cpi,45
+2011,Daelim,154
+2011,Derbi,11
+2011,Ducati,175
+2011,Harley Davidson,189
+2011,Honda,1369
+2011,Husqvarna,24
+2011,K.T.M.,132
+2011,Kawasaki,128
+2011,Keeway,19
+2011,Kymco,78
+2011,M.V. Agusta,9
+2011,Megelli,45
+2011,Modenas,17
+2011,Moto Guzzi,6
+2011,Others,13
+2011,P.G.O.,49
+2011,Piaggio,543
+2011,Regal-Raptor,7
+2011,Rieju,58
+2011,Royal Enfield,5
+2011,Suzuki,358
+2011,Sym,590
+2011,Triumph,69
+2011,TVS,19
+2011,Yamaha,3462
+2011,Zongshen,54
+2012,Adiva,8
+2012,Aprilia,212
+2012,B.M.W.,230
+2012,Bajaj,120
+2012,Cpi,6
+2012,Daelim,140
+2012,Ducati,191
+2012,Harley Davidson,203
+2012,Honda,1767
+2012,Husqvarna,5
+2012,K.T.M.,242
+2012,Kawasaki,197
+2012,Keeway,30
+2012,Kymco,114
+2012,M.V. Agusta,15
+2012,Megelli,45
+2012,Modenas,14
+2012,Others,14
+2012,P.G.O.,76
+2012,Peugeot,13
+2012,Piaggio,568
+2012,Regal-Raptor,11
+2012,Rieju,36
+2012,Royal Enfield,24
+2012,Sacin,25
+2012,Suzuki,200
+2012,Sym,876
+2012,Triumph,104
+2012,TVS,7
+2012,Vespa,14
+2012,Yamaha,4404
+2012,Zongshen,32
+2013,Adiva,34
+2013,Aprilia,196
+2013,B.M.W.,360
+2013,Bajaj,422
+2013,Can-Am,10
+2013,Daelim,102
+2013,Ducati,159
+2013,Harley Davidson,170
+2013,Honda,2046
+2013,K.T.M.,310
+2013,Kawasaki,271
+2013,Keeway,72
+2013,Kymco,190
+2013,M.V. Agusta,11
+2013,Megelli,8
+2013,Mle,89
+2013,Moto Guzzi,10
+2013,Others,13
+2013,P.G.O.,61
+2013,Peugeot,16
+2013,Piaggio,542
+2013,Rieju,16
+2013,Royal Enfield,29
+2013,Sacin,21
+2013,Suzuki,163
+2013,Sym,881
+2013,Triumph,121
+2013,Vespa,6
+2013,Yamaha,5334
+2013,Zongshen,8
+2014,Adiva,125
+2014,Aprilia,123
+2014,B.M.W.,466
+2014,Bajaj,119
+2014,Can-Am,5
+2014,Daelim,51
+2014,Ducati,177
+2014,Harley Davidson,116
+2014,Honda,1932
+2014,Indian,2
+2014,K.T.M.,405
+2014,Kawasaki,278
+2014,Keeway,10
+2014,Kymco,238
+2014,Lambretta,4
+2014,M.V. Agusta,5
+2014,Megelli,2
+2014,Mle,38
+2014,Moto Guzzi,11
+2014,Norton,1
+2014,P.G.O.,44
+2014,Peugeot,26
+2014,Piaggio,368
+2014,Rieju,1
+2014,Royal Enfield,13
+2014,Sacin,2
+2014,Suzuki,279
+2014,Sym,472
+2014,Triumph,87
+2014,Vespa,1
+2014,Victory,1
+2014,Yamaha,2764
+2014,Yyrus,1
+2014,Zongshen,5
+2015,A-Bike,6
+2015,Adiva,173
+2015,Aprilia,87
+2015,B.M.W.,385
+2015,Bajaj,60
+2015,Can-Am,4
+2015,Daelim,50
+2015,Ducati,109
+2015,Harley Davidson,141
+2015,Honda,1960
+2015,Husqvarna,6
+2015,Hyosung,3
+2015,Indian,16
+2015,Jianshe,3
+2015,K.T.M.,381
+2015,Kawasaki,230
+2015,Keeway,5
+2015,Kymco,223
+2015,Lambretta,1
+2015,M.V. Agusta,31
+2015,Moto Guzzi,8
+2015,P.G.O.,69
+2015,Piaggio,336
+2015,Qingqi,2
+2015,Rieju,4
+2015,Royal Enfield,4
+2015,Suzuki,440
+2015,Sym,258
+2015,TGB,1
+2015,Triumph,88
+2015,Velocette,1
+2015,Vespa,1
+2015,Victory,7
+2015,Yamaha,2353
+2015,Zongshen,18
+2016,Adiva,182
+2016,Aprilia,71
+2016,B.M.W.,392
+2016,Bajaj,140
+2016,Can-Am,1
+2016,Daelim,26
+2016,Ducati,106
+2016,Harley Davidson,112
+2016,Honda,2324
+2016,Husqvarna,10
+2016,Indian,6
+2016,Jianshe,17
+2016,K.T.M.,329
+2016,Kawasaki,96
+2016,Keeway,7
+2016,Kymco,195
+2016,Lambretta,2
+2016,M.V. Agusta,32
+2016,Moto Guzzi,20
+2016,P.G.O.,47
+2016,Piaggio,313
+2016,Qingqi,3
+2016,Rieju,7
+2016,Royal Enfield,4
+2016,SCOMADI,103
+2016,Suzuki,443
+2016,Sym,209
+2016,TGB,16
+2016,Triumph,75
+2016,Victory,5
+2016,Yamaha,3037
+2016,Zongshen,25
+2017,Adiva,194
+2017,Aprilia,51
+2017,B.M.W.,236
+2017,Bajaj,114
+2017,Benelli,1
+2017,CFMOTO,1
+2017,Daelim,12
+2017,Ducati,54
+2017,Harley Davidson,131
+2017,Honda,3125
+2017,Husqvarna,13
+2017,Hyosung,1
+2017,Indian,8
+2017,Jianshe,3
+2017,K.T.M.,312
+2017,Kawasaki,116
+2017,Keeway,4
+2017,Kymco,157
+2017,Lambretta,3
+2017,LAVERDA,1
+2017,LEXMOTO,47
+2017,M.V. Agusta,40
+2017,Moto Guzzi,11
+2017,Norton,6
+2017,P.G.O.,31
+2017,Piaggio,322
+2017,Qingqi,3
+2017,Rieju,2
+2017,Royal Enfield,13
+2017,SCOMADI,34
+2017,Suzuki,387
+2017,Sym,278
+2017,TGB,18
+2017,Triumph,146
+2017,Vespa,1
+2017,Victory,6
+2017,Yamaha,3764
+2017,Zongshen,15
+2018,A-Bike,
+2018,Adiva,
+2018,Aprilia,22
+2018,B.M.W.,221
+2018,Bajaj,89
+2018,Benelli,
+2018,Can-Am,
+2018,CFMOTO,
+2018,Cpi,
+2018,Daelim,45
+2018,Derbi,
+2018,Ducati,93
+2018,Harley Davidson,116
+2018,Honda,4896
+2018,Husqvarna,14
+2018,Hyosung,
+2018,Indian,3
+2018,Jianshe,1
+2018,K.T.M.,167
+2018,Kawasaki,171
+2018,Keeway,
+2018,Kymco,156
+2018,Lambretta,25
+2018,LAVERDA,
+2018,LEXMOTO,11
+2018,M.V. Agusta,1
+2018,Megelli,
+2018,Mle,
+2018,Modenas,
+2018,Moto Guzzi,6
+2018,Norton,
+2018,P.G.O.,
+2018,Peugeot,
+2018,Piaggio,306
+2018,Qingqi,
+2018,Regal-Raptor,
+2018,Rieju,5
+2018,Royal Enfield,7
+2018,Sachs,
+2018,Sacin,
+2018,SCOMADI,8
+2018,Suzuki,280
+2018,Sym,280
+2018,TGB,
+2018,Triumph,74
+2018,TVS,
+2018,Velocette,
+2018,Vespa,1
+2018,Victory,
+2018,Yamaha,5076
+2018,Yyrus,
+2018,Zongshen,15
+2018,LUYUAN,1
+2018,Others,
+2019,A-Bike,
+2019,Adiva,1
+2019,Aprilia,28
+2019,B.M.W.,198
+2019,B.S.A.,1
+2019,Bajaj,84
+2019,Benelli,
+2019,BETA,9
+2019,BRIXTON,29
+2019,Can-Am,
+2019,CFMOTO,
+2019,Cpi,
+2019,Daelim,28
+2019,Derbi,
+2019,Ducati,125
+2019,Harley Davidson,124
+2019,Honda,5513
+2019,Husqvarna,13
+2019,Hyosung,
+2019,Indian,3
+2019,Jianshe,
+2019,K.T.M.,212
+2019,Kawasaki,227
+2019,Keeway,1
+2019,KIDEN,3
+2019,Kymco,216
+2019,Lambretta,150
+2019,LAVERDA,
+2019,LEXMOTO,20
+2019,LUYUAN,
+2019,M.V. Agusta,2
+2019,Megelli,
+2019,Mle,
+2019,Modenas,
+2019,Moto Guzzi,11
+2019,Norton,
+2019,P.G.O.,
+2019,Peugeot,29
+2019,Piaggio,318
+2019,Qingqi,16
+2019,QUADRO,1
+2019,Regal-Raptor,
+2019,Rieju,7
+2019,Royal Enfield,18
+2019,Sachs,
+2019,Sacin,
+2019,SCOMADI,
+2019,Suzuki,163
+2019,Sym,428
+2019,TGB,
+2019,Triumph,98
+2019,TVS,
+2019,Velocette,
+2019,Vespa,1
+2019,Victory,
+2019,Yamaha,11229
+2019,Yyrus,
+2019,Zongshen,12
+2019,ZONTES,39
+2019,Others,

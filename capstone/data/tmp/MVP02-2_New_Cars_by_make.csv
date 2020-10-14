@@ -1,0 +1,790 @@
+year,make,number
+2005,Alfa Romeo,138
+2005,Aston Martin,8
+2005,Audi,537
+2005,B.M.W.,3486
+2005,Bentley,22
+2005,Chevrolet,2032
+2005,Chrysler,157
+2005,Citroen,67
+2005,Daihatsu,189
+2005,Ferrari,35
+2005,Fiat,252
+2005,Ford,996
+2005,Honda,11274
+2005,Hyundai,12860
+2005,Jaguar,307
+2005,Jeep,12
+2005,Kia,5518
+2005,Lamborghini,19
+2005,Land Rover,34
+2005,Lotus,7
+2005,Maserati,26
+2005,Mazda,5055
+2005,Mercedes Benz,2812
+2005,Mini,166
+2005,Mitsubishi,6422
+2005,Nissan,17034
+2005,Opel,499
+2005,Others,11
+2005,Perodua,475
+2005,Peugeot,535
+2005,Porsche,137
+2005,Proton,1058
+2005,Renault,820
+2005,Rolls Royce,9
+2005,Saab,247
+2005,Skoda,60
+2005,Ssangyong,21
+2005,Subaru,1558
+2005,Suzuki,1557
+2005,Toyota,31127
+2005,Volkswagen,660
+2005,Volvo,1137
+2006,Alfa Romeo,96
+2006,Aston Martin,11
+2006,Audi,651
+2006,B.M.W.,3692
+2006,Bentley,36
+2006,Chery,269
+2006,Chevrolet,2601
+2006,Chrysler,201
+2006,Citroen,47
+2006,Daihatsu,415
+2006,Dodge,6
+2006,Ferrari,26
+2006,Fiat,464
+2006,Ford,718
+2006,Geely,19
+2006,Honda,14964
+2006,Hyundai,10007
+2006,Jaguar,220
+2006,Jeep,24
+2006,Kia,5056
+2006,Lamborghini,29
+2006,Land Rover,32
+2006,Lotus,10
+2006,Maserati,30
+2006,Mazda,4646
+2006,Mercedes Benz,3299
+2006,Mini,212
+2006,Mitsubishi,8751
+2006,Nissan,14768
+2006,Opel,420
+2006,Others,13
+2006,Perodua,533
+2006,Peugeot,560
+2006,Porsche,168
+2006,Proton,1185
+2006,Renault,518
+2006,Rolls Royce,5
+2006,Saab,262
+2006,Skoda,65
+2006,Ssangyong,54
+2006,Subaru,2408
+2006,Suzuki,2768
+2006,Toyota,35326
+2006,Volkswagen,585
+2006,Volvo,892
+2007,Alfa Romeo,169
+2007,Aston Martin,20
+2007,Audi,964
+2007,B.M.W.,3732
+2007,Bentley,37
+2007,Chery,637
+2007,Chevrolet,2134
+2007,Chrysler,140
+2007,Citroen,247
+2007,Daihatsu,694
+2007,Dodge,33
+2007,Dongfeng,33
+2007,Ferrari,53
+2007,Fiat,649
+2007,Ford,334
+2007,Geely,505
+2007,Hafei,168
+2007,Honda,21215
+2007,Hyundai,5408
+2007,Jaguar,182
+2007,Jeep,32
+2007,Kia,2451
+2007,Lamborghini,34
+2007,Land Rover,41
+2007,Lotus,5
+2007,Maserati,45
+2007,Mazda,4427
+2007,Mercedes Benz,3875
+2007,Mini,290
+2007,Mitsubishi,8335
+2007,Mitsuoka,23
+2007,Nissan,9625
+2007,Opel,309
+2007,Others,11
+2007,Perodua,579
+2007,Peugeot,494
+2007,Porsche,337
+2007,Proton,677
+2007,Renault,456
+2007,Rolls Royce,7
+2007,Saab,210
+2007,Skoda,61
+2007,Ssangyong,77
+2007,Subaru,3297
+2007,Suzuki,4158
+2007,Toyota,27574
+2007,Volkswagen,942
+2007,Volvo,984
+2008,Alfa Romeo,75
+2008,Aston Martin,24
+2008,Audi,1340
+2008,B.M.W.,3856
+2008,Bentley,41
+2008,Chana,39
+2008,Chery,578
+2008,Chevrolet,1372
+2008,Chrysler,92
+2008,Citroen,209
+2008,Daihatsu,716
+2008,Dodge,7
+2008,Dongfeng,31
+2008,Ferrari,45
+2008,Fiat,396
+2008,Ford,224
+2008,Geely,178
+2008,Golden Dragon,5
+2008,Hafei,129
+2008,Honda,24591
+2008,Hyundai,3985
+2008,Jaguar,229
+2008,Jeep,31
+2008,Kia,1991
+2008,Lamborghini,49
+2008,Land Rover,35
+2008,Lotus,21
+2008,Maserati,87
+2008,Mazda,3330
+2008,Mercedes Benz,4122
+2008,Mini,298
+2008,Mitsubishi,6862
+2008,Mitsuoka,5
+2008,Naza,27
+2008,Nissan,6229
+2008,Opel,209
+2008,Others,11
+2008,Perodua,426
+2008,Peugeot,384
+2008,Porsche,327
+2008,Proton,476
+2008,Renault,309
+2008,Rolls Royce,14
+2008,Saab,117
+2008,Skoda,17
+2008,Ssangyong,135
+2008,Subaru,3401
+2008,Suzuki,3306
+2008,Toyota,24818
+2008,Volkswagen,1290
+2008,Volvo,800
+2008,Wuling,53
+2008,Zotye,6
+2009,Alfa Romeo,138
+2009,Aston Martin,25
+2009,Audi,1555
+2009,B.M.W.,3926
+2009,Bentley,45
+2009,Chana,27
+2009,Chery,309
+2009,Chevrolet,1533
+2009,Chrysler,53
+2009,Citroen,284
+2009,Daihatsu,198
+2009,Dongfeng,33
+2009,Ferrari,32
+2009,Fiat,314
+2009,Ford,381
+2009,Geely,78
+2009,Hafei,36
+2009,Honda,9584
+2009,Hummer,17
+2009,Hyundai,6639
+2009,Jaguar,217
+2009,Jeep,15
+2009,Kia,4300
+2009,Lamborghini,54
+2009,Land Rover,64
+2009,Lotus,9
+2009,Maserati,76
+2009,Mazda,1635
+2009,Mercedes Benz,3997
+2009,Mini,222
+2009,Mitsubishi,2765
+2009,Nissan,3973
+2009,Opel,151
+2009,Others,14
+2009,Perodua,305
+2009,Peugeot,387
+2009,Porsche,303
+2009,Proton,413
+2009,Renault,288
+2009,Rolls Royce,10
+2009,Saab,65
+2009,Skoda,103
+2009,Ssangyong,60
+2009,Subaru,1664
+2009,Suzuki,1583
+2009,Toyota,17555
+2009,Volkswagen,2530
+2009,Volvo,848
+2009,Wuling,8
+2009,Zotye,41
+2010,Alfa Romeo,105
+2010,Aston Martin,34
+2010,Audi,2199
+2010,B.M.W.,4708
+2010,Bentley,49
+2010,Chery,139
+2010,Chevrolet,963
+2010,Chrysler,32
+2010,Citroen,375
+2010,Daihatsu,83
+2010,Dodge,6
+2010,Dongfeng,8
+2010,Ferrari,69
+2010,Fiat,257
+2010,Ford,347
+2010,Geely,26
+2010,Hafei,11
+2010,Honda,3272
+2010,Hummer,6
+2010,Hyundai,2437
+2010,Jaguar,339
+2010,Jeep,16
+2010,Kia,2934
+2010,Lamborghini,53
+2010,Land Rover,97
+2010,Lotus,16
+2010,Maserati,90
+2010,Mazda,1243
+2010,Mercedes Benz,4705
+2010,Mini,312
+2010,Mitsubishi,960
+2010,Mitsuoka,8
+2010,Nissan,1798
+2010,Opel,89
+2010,Others,13
+2010,Perodua,169
+2010,Peugeot,259
+2010,Porsche,448
+2010,Proton,256
+2010,Renault,166
+2010,Rolls Royce,37
+2010,Saab,13
+2010,Skoda,105
+2010,Ssangyong,21
+2010,Subaru,888
+2010,Suzuki,607
+2010,Toyota,6927
+2010,Volkswagen,3486
+2010,Volvo,816
+2010,Zotye,5
+2011,Alfa Romeo,48
+2011,Aston Martin,25
+2011,Audi,2111
+2011,B.M.W.,4959
+2011,Bentley,60
+2011,Chery,28
+2011,Chevrolet,645
+2011,Chrysler,29
+2011,Citroen,346
+2011,Daihatsu,40
+2011,Ferrari,92
+2011,Fiat,129
+2011,Ford,238
+2011,Honda,942
+2011,Hyundai,1289
+2011,Infiniti,7
+2011,Jaguar,389
+2011,Jeep,17
+2011,Kia,953
+2011,Lamborghini,49
+2011,Land Rover,233
+2011,Lotus,14
+2011,Maserati,91
+2011,Mazda,265
+2011,Mercedes Benz,4166
+2011,Mini,363
+2011,Mitsubishi,201
+2011,Nissan,800
+2011,Opel,62
+2011,Others,25
+2011,Perodua,15
+2011,Peugeot,460
+2011,Porsche,584
+2011,Proton,75
+2011,Renault,263
+2011,Rolls Royce,39
+2011,Saab,42
+2011,Skoda,65
+2011,Ssangyong,19
+2011,Subaru,216
+2011,Suzuki,275
+2011,Toyota,3562
+2011,Volkswagen,3204
+2011,Volvo,835
+2012,Alfa Romeo,49
+2012,Aston Martin,22
+2012,Audi,1679
+2012,B.M.W.,5039
+2012,Bentley,93
+2012,Chery,5
+2012,Chevrolet,437
+2012,Chrysler,13
+2012,Citroen,357
+2012,Daihatsu,37
+2012,Ferrari,80
+2012,Fiat,24
+2012,Ford,354
+2012,Foton,9
+2012,Honda,515
+2012,Hyundai,1155
+2012,Infiniti,72
+2012,Jaguar,383
+2012,Jeep,25
+2012,Kia,600
+2012,Lamborghini,56
+2012,Land Rover,384
+2012,Lotus,9
+2012,Maserati,84
+2012,Mazda,348
+2012,Mclaren,33
+2012,Mercedes Benz,4323
+2012,Mini,285
+2012,Mitsubishi,61
+2012,Nissan,687
+2012,Opel,99
+2012,Others,14
+2012,Perodua,8
+2012,Peugeot,560
+2012,Porsche,507
+2012,Proton,53
+2012,Renault,114
+2012,Rolls Royce,49
+2012,Saab,15
+2012,Skoda,62
+2012,Ssangyong,16
+2012,Subaru,135
+2012,Suzuki,144
+2012,Toyota,4272
+2012,Volkswagen,3567
+2012,Volvo,1066
+2013,Alfa Romeo,17
+2013,Aston Martin,18
+2013,Audi,1797
+2013,B.M.W.,3730
+2013,Bentley,125
+2013,Chevrolet,256
+2013,Chrysler,12
+2013,Citroen,172
+2013,Daihatsu,6
+2013,Ferrari,69
+2013,Fiat,12
+2013,Ford,208
+2013,Honda,423
+2013,Hyundai,460
+2013,Infiniti,34
+2013,Jaguar,485
+2013,Jeep,19
+2013,Kia,268
+2013,Lamborghini,23
+2013,Land Rover,365
+2013,Maserati,56
+2013,Mazda,635
+2013,Mclaren,25
+2013,Mercedes Benz,3871
+2013,Mini,184
+2013,Mitsubishi,29
+2013,Nissan,623
+2013,Opel,120
+2013,Others,12
+2013,Peugeot,295
+2013,Porsche,363
+2013,Renault,121
+2013,Rolls Royce,58
+2013,Saab,9
+2013,Skoda,8
+2013,Ssangyong,7
+2013,Subaru,201
+2013,Suzuki,85
+2013,Toyota,3459
+2013,Volkswagen,2874
+2013,Volvo,938
+2014,Alfa Romeo,35
+2014,Alpina,8
+2014,Aston Martin,4
+2014,Audi,1565
+2014,Austin,1
+2014,B.M.W.,3239
+2014,Bentley,70
+2014,Chery,2
+2014,Chevrolet,293
+2014,Chrysler,10
+2014,Citroen,272
+2014,Daihatsu,6
+2014,Ferrari,31
+2014,Fiat,6
+2014,Ford,208
+2014,Holden,1
+2014,Honda,1541
+2014,Hyundai,869
+2014,Infiniti,91
+2014,Jaguar,341
+2014,Jeep,17
+2014,Kia,749
+2014,Lamborghini,10
+2014,Land Rover,299
+2014,Lotus,2
+2014,M.G.,2
+2014,Maserati,56
+2014,Mazda,1967
+2014,Mclaren,11
+2014,Mercedes Benz,4651
+2014,Mini,193
+2014,Mitsubishi,79
+2014,Mitsuoka,2
+2014,Morgan,2
+2014,Nissan,1829
+2014,Opel,102
+2014,Peugeot,229
+2014,Porsche,375
+2014,Proton,4
+2014,Renault,125
+2014,Rolls Royce,19
+2014,Ruf,2
+2014,Saab,1
+2014,Skoda,1
+2014,Ssangyong,13
+2014,Subaru,627
+2014,Suzuki,107
+2014,Toyota,5431
+2014,Triumph,2
+2014,Volkswagen,2522
+2014,Volvo,910
+2015,Alfa Romeo,31
+2015,Alpina,9
+2015,Aston Martin,5
+2015,Audi,2093
+2015,Austin,2
+2015,B.M.W.,3598
+2015,Bentley,66
+2015,Chery,5
+2015,Chevrolet,361
+2015,Chrysler,5
+2015,Citroen,686
+2015,Daihatsu,3
+2015,Daimler,1
+2015,Ferrari,41
+2015,Fiat,3
+2015,Ford,323
+2015,Honda,7916
+2015,Hyundai,1805
+2015,Infiniti,222
+2015,Jaguar,385
+2015,Jeep,29
+2015,Kia,1586
+2015,Lamborghini,20
+2015,Land Rover,349
+2015,M.G.,1
+2015,Maserati,75
+2015,Mazda,5287
+2015,Mclaren,4
+2015,Mercedes Benz,5408
+2015,Mini,295
+2015,Mitsubishi,1379
+2015,Mitsuoka,3
+2015,Morris,1
+2015,Nissan,5574
+2015,Opel,63
+2015,Peugeot,525
+2015,Porsche,589
+2015,Range Rover,1
+2015,Renault,316
+2015,Rolls Royce,20
+2015,Rover,1
+2015,Ruf,1
+2015,Ssangyong,73
+2015,Subaru,1668
+2015,Suzuki,257
+2015,The London Taxi Co,1
+2015,Toyo Ace,1
+2015,Toyota,12171
+2015,Triumph,1
+2015,Volkswagen,3056
+2015,Volvo,1274
+2016,Alfa Romeo,39
+2016,Alpina,12
+2016,Aston Martin,14
+2016,Audi,2360
+2016,B.M.W.,4582
+2016,Bentley,53
+2016,BYD,7
+2016,Chery,10
+2016,Chevrolet,623
+2016,Chrysler,10
+2016,Citroen,814
+2016,Daihatsu,1
+2016,Daimler,1
+2016,Ferrari,37
+2016,Fiat,1
+2016,Ford,337
+2016,Honda,19349
+2016,Hyundai,2587
+2016,Infiniti,328
+2016,Jaguar,555
+2016,Jeep,9
+2016,Kia,2357
+2016,KOENIGSEGG,1
+2016,Lamborghini,15
+2016,Land Rover,388
+2016,Lotus,1
+2016,M.G.,4
+2016,Maserati,63
+2016,Mazda,7091
+2016,Mclaren,5
+2016,Mercedes Benz,6444
+2016,Mini,383
+2016,Mitsubishi,3632
+2016,Nissan,7028
+2016,Opel,241
+2016,Perodua,18
+2016,Peugeot,608
+2016,Porsche,563
+2016,Renault,462
+2016,Rolls Royce,19
+2016,SEAT,14
+2016,Skoda,2
+2016,Ssangyong,279
+2016,Subaru,2902
+2016,Suzuki,496
+2016,TESLA,3
+2016,Toyota,18491
+2016,Triumph,1
+2016,Volkswagen,2779
+2016,Volvo,1485
+2017,Alfa Romeo,12
+2017,Alpina,23
+2017,Aston Martin,29
+2017,Audi,2604
+2017,Austin,1
+2017,B.M.W.,5591
+2017,Bentley,70
+2017,BLUECAR,235
+2017,BYD,63
+2017,Chery,13
+2017,Chevrolet,468
+2017,Citroen,722
+2017,Daihatsu,1
+2017,DATSUN,2
+2017,Ferrari,39
+2017,Fiat,1
+2017,Ford,355
+2017,Honda,16013
+2017,Hyundai,3804
+2017,Infiniti,302
+2017,Jaguar,553
+2017,Jeep,52
+2017,Kia,3848
+2017,Lamborghini,18
+2017,LANCIA,2
+2017,Land Rover,529
+2017,Lotus,1
+2017,M.G.,1
+2017,MARCOS,1
+2017,Maserati,124
+2017,Mazda,8509
+2017,Mclaren,10
+2017,Mercedes Benz,7976
+2017,Mini,468
+2017,Mitsubishi,3555
+2017,Mitsuoka,1
+2017,Nissan,5241
+2017,Opel,961
+2017,PAGANI,1
+2017,Perodua,125
+2017,Peugeot,681
+2017,Porsche,677
+2017,RAMBLER,1
+2017,Renault,768
+2017,Rolls Royce,25
+2017,Rover,1
+2017,SEAT,199
+2017,Skoda,6
+2017,Ssangyong,388
+2017,Subaru,3239
+2017,Suzuki,501
+2017,Toyota,19133
+2017,Triumph,3
+2017,Volkswagen,2450
+2017,Volvo,1526
+2018,Alfa Romeo,50
+2018,Alpina,11
+2018,Aston Martin,26
+2018,Audi,2941
+2018,Austin,
+2018,B.M.W.,5405
+2018,Bentley,61
+2018,BLUECAR,180
+2018,BYD,32
+2018,Chana,
+2018,Chery,
+2018,Chevrolet,2
+2018,Chrysler,2
+2018,Citroen,279
+2018,Daihatsu,5
+2018,Daimler,1
+2018,DATSUN,6
+2018,Dodge,
+2018,Dongfeng,
+2018,Ferrari,37
+2018,Fiat,
+2018,Ford,111
+2018,Foton,
+2018,Geely,
+2018,Golden Dragon,
+2018,Hafei,
+2018,Holden,
+2018,Honda,15040
+2018,Hummer,
+2018,Hyundai,6540
+2018,Infiniti,224
+2018,Jaguar,407
+2018,Jeep,37
+2018,Kia,3923
+2018,KOENIGSEGG,
+2018,Lamborghini,38
+2018,LANCIA,
+2018,Land Rover,289
+2018,Lotus,2
+2018,M.G.,2
+2018,MARCOS,
+2018,Maserati,118
+2018,MAXUS,12
+2018,Mazda,5414
+2018,Mclaren,23
+2018,Mercedes Benz,7122
+2018,Mini,531
+2018,Mitsubishi,3284
+2018,Mitsuoka,
+2018,Morgan,
+2018,Morris,1
+2018,Naza,
+2018,Nissan,4019
+2018,Opel,301
+2018,PAGANI,
+2018,Perodua,19
+2018,Peugeot,701
+2018,Porsche,575
+2018,Proton,
+2018,RAMBLER,
+2018,Range Rover,
+2018,Renault,735
+2018,Rolls Royce,31
+2018,Rover,
+2018,Ruf,
+2018,Saab,
+2018,SEAT,216
+2018,Skoda,452
+2018,SMART,4
+2018,Ssangyong,40
+2018,Subaru,3196
+2018,Suzuki,177
+2018,TESLA,4
+2018,The London Taxi Co,
+2018,Toyo Ace,
+2018,Toyota,13817
+2018,Triumph,2
+2018,Volkswagen,2420
+2018,Volvo,1416
+2018,Wuling,
+2018,Zotye,
+2018,Others,
+2019,Alfa Romeo,60
+2019,Alpina,2
+2019,ALPINE,14
+2019,Aston Martin,21
+2019,Audi,2487
+2019,Austin,2
+2019,B.M.W.,5346
+2019,Bentley,69
+2019,BLUECAR,265
+2019,BYD,7
+2019,Chana,
+2019,Chery,
+2019,Chevrolet,
+2019,Chrysler,
+2019,Citroen,303
+2019,Daihatsu,
+2019,Daimler,
+2019,DATSUN,2
+2019,Dodge,
+2019,Dongfeng,
+2019,Ferrari,43
+2019,Fiat,1
+2019,Ford,13
+2019,Foton,
+2019,Geely,
+2019,Hafei,
+2019,Holden,
+2019,Honda,15205
+2019,Hummer,
+2019,Hyundai,5618
+2019,Infiniti,162
+2019,Jaguar,336
+2019,Jeep,58
+2019,Kia,4227
+2019,KOENIGSEGG,1
+2019,Lamborghini,61
+2019,LANCIA,
+2019,Land Rover,300
+2019,Lotus,2
+2019,M.G.,2
+2019,MARCOS,
+2019,Maserati,103
+2019,MAXUS,15
+2019,Mazda,3095
+2019,Mclaren,21
+2019,Mercedes Benz,7840
+2019,Mini,453
+2019,Mitsubishi,3020
+2019,Mitsuoka,
+2019,Morgan,
+2019,Morris,2
+2019,Nissan,2405
+2019,Opel,629
+2019,PAGANI,
+2019,Perodua,88
+2019,Peugeot,124
+2019,Porsche,628
+2019,Proton,
+2019,RAMBLER,
+2019,Range Rover,1
+2019,Renault,779
+2019,Rolls Royce,41
+2019,Rover,
+2019,Ruf,2
+2019,Saab,
+2019,SEAT,329
+2019,Skoda,849
+2019,SMART,1
+2019,Ssangyong,47
+2019,Subaru,1261
+2019,Suzuki,467
+2019,TESLA,14
+2019,The London Taxi Co,
+2019,Toyo Ace,
+2019,Toyota,12923
+2019,Triumph,
+2019,Volkswagen,1726
+2019,Volvo,874
+2019,Wuling,
+2019,Zotye,
+2019,Others,

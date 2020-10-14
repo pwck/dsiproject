@@ -1,0 +1,76 @@
+year,type_of_vehicles,number
+2005,Cars,23955
+2005,Motorcycles,42984
+2005,Buses,1031
+2005,Goods and Other Vehicles,9977
+2005,Tax Exempted Vehicles,250
+2006,Cars,20809
+2006,Motorcycles,37811
+2006,Buses,1012
+2006,Goods and Other Vehicles,12275
+2006,Tax Exempted Vehicles,204
+2007,Cars,23818
+2007,Motorcycles,34553
+2007,Buses,1170
+2007,Goods and Other Vehicles,13646
+2007,Tax Exempted Vehicles,381
+2008,Cars,29459
+2008,Motorcycles,34078
+2008,Buses,1212
+2008,Goods and Other Vehicles,12736
+2008,Tax Exempted Vehicles,293
+2009,Cars,34003
+2009,Motorcycles,32911
+2009,Buses,1226
+2009,Goods and Other Vehicles,12522
+2009,Tax Exempted Vehicles,438
+2010,Cars,55560
+2010,Motorcycles,33213
+2010,Buses,1426
+2010,Goods and Other Vehicles,14681
+2010,Tax Exempted Vehicles,435
+2011,Cars,72031
+2011,Motorcycles,37352
+2011,Buses,1766
+2011,Goods and Other Vehicles,15320
+2011,Tax Exempted Vehicles,0
+2012,Cars,77727
+2012,Motorcycles,46261
+2012,Buses,1835
+2012,Goods and Other Vehicles,16611
+2012,Tax Exempted Vehicles,0
+2013,Cars,63005
+2013,Motorcycles,44682
+2013,Buses,1888
+2013,Goods and Other Vehicles,17522
+2013,Tax Exempted Vehicles,0
+2014,Cars,68209
+2014,Motorcycles,40742
+2014,Buses,1911
+2014,Goods and Other Vehicles,20075
+2014,Tax Exempted Vehicles,0
+2015,Cars,94290
+2015,Motorcycles,40841
+2015,Buses,1915
+2015,Goods and Other Vehicles,20725
+2015,Tax Exempted Vehicles,0
+2016,Cars,113405
+2016,Motorcycles,42588
+2016,Buses,2087
+2016,Goods and Other Vehicles,20624
+2016,Tax Exempted Vehicles,0
+2017,Cars,111980
+2017,Motorcycles,44836
+2017,Buses,1801
+2017,Goods and Other Vehicles,21932
+2017,Tax Exempted Vehicles,0
+2018,Cars,105545
+2018,Motorcycles,50367
+2018,Buses,1854
+2018,Goods and Other Vehicles,20702
+2018,Tax Exempted Vehicles,0
+2019,Cars,92318
+2019,Motorcycles,56007
+2019,Buses,1506
+2019,Goods and Other Vehicles,17590
+2019,Tax Exempted Vehicles,0
